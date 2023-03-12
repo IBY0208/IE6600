@@ -1,0 +1,819 @@
+University,ID Year,Year,ID Detailed Occupation,Detailed Occupation,ID Workforce Status,Workforce Status,Total Population,Average Wage,Average Wage Appx MOE,Total Population MOE Appx,Record Count,CIP2,ID CIP2
+Brown University,2020,2020,291210,Physicians,TRUE,TRUE,2713,209540.739,78259.952,1278.779546,157,Cultural & Gender Studies,5
+Brown University,2020,2020,291240,Surgeons,TRUE,TRUE,139,211234.9137,316488.7268,289.4555993,9,Cultural & Gender Studies,5
+Brown University,2020,2020,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,187,301388.7219,466889.0434,335.7339716,16,Cultural & Gender Studies,5
+Brown University,2019,2019,193033,Clinical and counseling psychologists,TRUE,TRUE,133,54765.60902,77796.69961,283.1394495,6,Cultural & Gender Studies,5
+Brown University,2019,2019,291210,Physicians,TRUE,TRUE,2666,218969.7528,76755.74986,1267.654509,154,Cultural & Gender Studies,5
+Brown University,2019,2019,291240,Surgeons,TRUE,TRUE,105,179788.8857,269663.5937,251.5760266,7,Cultural & Gender Studies,5
+Brown University,2019,2019,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,308,254139.2403,323732.1701,430.8733798,20,Cultural & Gender Studies,5
+Brown University,2018,2018,193033,Clinical and counseling psychologists,TRUE,TRUE,137,53764.62774,75181.58195,287.3656392,6,Cultural & Gender Studies,5
+Brown University,2018,2018,291210,Physicians,TRUE,TRUE,2608,213204.1925,75319.52752,1253.789579,151,Cultural & Gender Studies,5
+Brown University,2018,2018,291240,Surgeons,TRUE,TRUE,101,157719.7822,300286.0474,246.7375765,6,Cultural & Gender Studies,5
+Brown University,2018,2018,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,323,173029.4985,258385.5661,441.2406719,19,Cultural & Gender Studies,5
+Brown University,2017,2017,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,312,177325.1186,259624.1668,433.6622141,18,Cultural & Gender Studies,5
+Brown University,2016,2016,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,274,158728.4453,250475.6728,406.3961804,15,Cultural & Gender Studies,5
+Brown University,2015,2015,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,466,142105.6373,155870.3409,529.9891597,19,Cultural & Gender Studies,5
+Brown University,2014,2014,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,449,148435.7884,172344.2935,520.232181,19,Cultural & Gender Studies,5
+Brown University,2020,2020,172061,Computer hardware engineers,TRUE,TRUE,977,153480.7124,80426.33196,767.397905,56,Math & Statistics,27
+Brown University,2020,2020,193033,Clinical and counseling psychologists,TRUE,TRUE,70,137507.3857,202514.1402,205.4109902,5,Math & Statistics,27
+Brown University,2020,2020,291210,Physicians,TRUE,TRUE,8558,255107.9207,46431.3698,2271.163303,473,Math & Statistics,27
+Brown University,2020,2020,291240,Surgeons,TRUE,TRUE,395,264488.4127,263330.079,487.9470849,24,Math & Statistics,27
+Brown University,2020,2020,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,3439,290441.8284,96470.8763,1439.745761,145,Math & Statistics,27
+Brown University,2019,2019,172061,Computer hardware engineers,TRUE,TRUE,890,144862.2101,84804.06355,732.4339243,52,Math & Statistics,27
+Brown University,2019,2019,193033,Clinical and counseling psychologists,TRUE,TRUE,69,134576.6522,196654.6317,203.9384914,5,Math & Statistics,27
+Brown University,2019,2019,291210,Physicians,TRUE,TRUE,8685,263566.1641,45808.32902,2287.951852,500,Math & Statistics,27
+Brown University,2019,2019,291240,Surgeons,TRUE,TRUE,376,309309.5931,259034.7842,476.0670541,24,Math & Statistics,27
+Brown University,2019,2019,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,3342,273838.4832,98608.12499,1419.296266,148,Math & Statistics,27
+Brown University,2018,2018,172061,Computer hardware engineers,TRUE,TRUE,805,145745.1342,99676.62505,696.5807942,46,Math & Statistics,27
+Brown University,2018,2018,193033,Clinical and counseling psychologists,TRUE,TRUE,69,137981.6232,205927.3128,203.9384907,5,Math & Statistics,27
+Brown University,2018,2018,291210,Physicians,TRUE,TRUE,8724,253830.8376,44421.03456,2293.081829,491,Math & Statistics,27
+Brown University,2018,2018,291240,Surgeons,TRUE,TRUE,334,261653.4102,279261.4178,448.6911391,22,Math & Statistics,27
+Brown University,2018,2018,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,3252,254029.5317,96505.00107,1400.055231,139,Math & Statistics,27
+Brown University,2017,2017,172061,Computer hardware engineers,TRUE,TRUE,952,120303.8088,73415.47452,757.5159649,52,Math & Statistics,27
+Brown University,2017,2017,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,2861,239858.4939,99539.36348,1313.195398,126,Math & Statistics,27
+Brown University,2016,2016,172061,Computer hardware engineers,TRUE,TRUE,955,114695.3455,66670.7906,758.7085385,52,Math & Statistics,27
+Brown University,2016,2016,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,3060,238359.8353,94082.27636,1358.096884,131,Math & Statistics,27
+Brown University,2015,2015,172061,Computer hardware engineers,TRUE,TRUE,1072,100351.4515,55688.40968,803.841588,50,Math & Statistics,27
+Brown University,2015,2015,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,3234,174706.7183,73428.80687,1396.174489,147,Math & Statistics,27
+Brown University,2014,2014,172061,Computer hardware engineers,TRUE,TRUE,1143,102451.1374,52389.41043,830.0343252,55,Math & Statistics,27
+Brown University,2014,2014,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,3166,189432.3383,75851.37664,1381.418186,145,Math & Statistics,27
+Brown University,2020,2020,172061,Computer hardware engineers,TRUE,TRUE,1228,147718.3909,66242.24443,860.3440174,54,Physical Sciences,40
+Brown University,2020,2020,291210,Physicians,TRUE,TRUE,69370,270185.9715,16425.57231,6464.857529,3802,Physical Sciences,40
+Brown University,2020,2020,291240,Surgeons,TRUE,TRUE,4452,329569.3747,66718.31234,1638.120384,256,Physical Sciences,40
+Brown University,2020,2020,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,2048,214282.1729,104123.9183,1111.05801,94,Physical Sciences,40
+Brown University,2019,2019,172061,Computer hardware engineers,TRUE,TRUE,1292,150381.2933,68984.39252,882.4784585,62,Physical Sciences,40
+Brown University,2019,2019,193033,Clinical and counseling psychologists,TRUE,TRUE,84,77585.97619,186031.0317,225.0164548,6,Physical Sciences,40
+Brown University,2019,2019,291210,Physicians,TRUE,TRUE,70432,267217.3937,16073.31735,6514.124167,3953,Physical Sciences,40
+Brown University,2019,2019,291240,Surgeons,TRUE,TRUE,4511,303169.6752,66604.06355,1648.938771,244,Physical Sciences,40
+Brown University,2019,2019,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,1806,238905.6274,119645.7685,1043.352287,98,Physical Sciences,40
+Brown University,2018,2018,172061,Computer hardware engineers,TRUE,TRUE,1343,142757.3038,58639.66972,899.7270104,61,Physical Sciences,40
+Brown University,2018,2018,193033,Clinical and counseling psychologists,TRUE,TRUE,101,80267.32673,154944.3116,246.7375765,7,Physical Sciences,40
+Brown University,2018,2018,291210,Physicians,TRUE,TRUE,69303,258477.3763,15582.23768,6461.706248,3890,Physical Sciences,40
+Brown University,2018,2018,291240,Surgeons,TRUE,TRUE,4133,291532.2328,63947.11416,1578.342629,225,Physical Sciences,40
+Brown University,2018,2018,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,1801,235964.6124,114718.5153,1041.906924,92,Physical Sciences,40
+Brown University,2017,2017,172061,Computer hardware engineers,TRUE,TRUE,1286,132737.4518,54087.64273,880.4268816,60,Physical Sciences,40
+Brown University,2017,2017,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,1891,222411.8065,107106.0292,1067.622351,96,Physical Sciences,40
+Brown University,2016,2016,172061,Computer hardware engineers,TRUE,TRUE,1273,126220.3614,47318.49259,875.9654909,58,Physical Sciences,40
+Brown University,2016,2016,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,1878,218950.2764,102170.8625,1063.946172,89,Physical Sciences,40
+Brown University,2015,2015,172061,Computer hardware engineers,TRUE,TRUE,1183,124215.8614,50491.59668,844.4331557,55,Physical Sciences,40
+Brown University,2015,2015,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,1787,213542.9496,106684.8633,1037.849151,88,Physical Sciences,40
+Brown University,2014,2014,172061,Computer hardware engineers,TRUE,TRUE,1181,116334.1558,38985.15065,843.7189929,54,Physical Sciences,40
+Brown University,2014,2014,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,1773,208693.6108,100415.959,1033.775657,82,Physical Sciences,40
+Brown University,2020,2020,172061,Computer hardware engineers,TRUE,TRUE,252,277496.2976,322044.3189,389.739712,11,History,54
+Brown University,2020,2020,193033,Clinical and counseling psychologists,TRUE,TRUE,150,239350.3133,402032.0785,300.6908193,9,History,54
+Brown University,2020,2020,291210,Physicians,TRUE,TRUE,11688,246311.9709,40553.05754,2654.163895,604,History,54
+Brown University,2020,2020,291240,Surgeons,TRUE,TRUE,487,288105.1951,218478.0691,541.7994076,30,History,54
+Brown University,2020,2020,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,4172,242577.884,81369.22197,1585.772188,195,History,54
+Brown University,2019,2019,172061,Computer hardware engineers,TRUE,TRUE,295,93358.36949,33115.58493,421.6822614,13,History,54
+Brown University,2019,2019,193033,Clinical and counseling psychologists,TRUE,TRUE,104,71228.63462,83299.29341,250.3751804,9,History,54
+Brown University,2019,2019,291210,Physicians,TRUE,TRUE,11153,237023.5995,41279.82765,2592.711453,614,History,54
+Brown University,2019,2019,291240,Surgeons,TRUE,TRUE,471,291548.879,231005.2895,532.824908,32,History,54
+Brown University,2019,2019,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,4278,224265.6847,76907.72234,1605.790371,209,History,54
+Brown University,2018,2018,172061,Computer hardware engineers,TRUE,TRUE,289,91129.46713,38230.29729,417.3719402,11,History,54
+Brown University,2018,2018,193033,Clinical and counseling psychologists,TRUE,TRUE,104,70352.48077,82202.62901,250.3751791,9,History,54
+Brown University,2018,2018,291210,Physicians,TRUE,TRUE,10687,232423.4034,40429.91667,2537.971238,589,History,54
+Brown University,2018,2018,291240,Surgeons,TRUE,TRUE,447,252847.9172,217217.5312,519.0722985,30,History,54
+Brown University,2018,2018,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,4267,215776.4846,74397.62909,1603.724282,215,History,54
+Brown University,2017,2017,172061,Computer hardware engineers,TRUE,TRUE,214,90218.00467,41542.68087,359.1545072,8,History,54
+Brown University,2017,2017,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,4670,201339.9745,67253.41337,1677.745652,232,History,54
+Brown University,2016,2016,172061,Computer hardware engineers,TRUE,TRUE,229,85380.87773,44124.60577,371.5285107,9,History,54
+Brown University,2016,2016,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,4850,185726.0363,60892.76999,1709.771794,236,History,54
+Brown University,2015,2015,172061,Computer hardware engineers,TRUE,TRUE,220,83666.20455,48632.96049,364.1545614,11,History,54
+Brown University,2015,2015,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,4780,174379.9416,57384.14731,1697.388345,235,History,54
+Brown University,2014,2014,172061,Computer hardware engineers,TRUE,TRUE,121,144305.4132,158166.2513,270.0643452,7,History,54
+Brown University,2014,2014,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,5048,161204.0172,53461.27938,1744.320914,243,History,54
+Brown University,2020,2020,172061,Computer hardware engineers,TRUE,TRUE,195,111664.3385,73167.26922,342.8402307,14,English,23
+Brown University,2020,2020,193033,Clinical and counseling psychologists,TRUE,TRUE,661,74134.78669,40303.38167,631.2109439,35,English,23
+Brown University,2020,2020,291210,Physicians,TRUE,TRUE,13037,243085.7964,38192.02102,2803.138085,688,English,23
+Brown University,2020,2020,291240,Surgeons,TRUE,TRUE,787,445973.1614,210286.4558,688.7489851,30,English,23
+Brown University,2020,2020,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,3107,174931.0908,78279.59002,1368.487496,160,English,23
+Brown University,2019,2019,172061,Computer hardware engineers,TRUE,TRUE,194,123833.1753,95963.75576,341.9600233,14,English,23
+Brown University,2019,2019,193033,Clinical and counseling psychologists,TRUE,TRUE,644,70846.77019,43536.13491,623.041168,36,English,23
+Brown University,2019,2019,291210,Physicians,TRUE,TRUE,12828,238821.9259,38179.12994,2780.579676,699,English,23
+Brown University,2019,2019,291240,Surgeons,TRUE,TRUE,541,361590.0536,247096.1927,571.0479734,31,English,23
+Brown University,2019,2019,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,3279,162502.423,73067.74091,1405.855352,173,English,23
+Brown University,2018,2018,172061,Computer hardware engineers,TRUE,TRUE,228,118555.9386,84818.83645,370.7164362,16,English,23
+Brown University,2018,2018,193033,Clinical and counseling psychologists,TRUE,TRUE,544,53779.37868,45653.30474,572.6290755,35,English,23
+Brown University,2018,2018,291210,Physicians,TRUE,TRUE,12932,237926.9453,37582.45415,2791.825598,700,English,23
+Brown University,2018,2018,291240,Surgeons,TRUE,TRUE,520,346940.6865,247374.8464,559.8551191,30,English,23
+Brown University,2018,2018,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,3592,144885.2063,62303.44851,1471.423053,185,English,23
+Brown University,2017,2017,172061,Computer hardware engineers,TRUE,TRUE,311,112294.9646,60450.45222,432.9666864,18,English,23
+Brown University,2017,2017,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,3920,138672.6844,56316.41566,1537.134435,195,English,23
+Brown University,2016,2016,172061,Computer hardware engineers,TRUE,TRUE,293,106926.7031,65498.48568,420.2503821,17,English,23
+Brown University,2016,2016,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,3891,138890.6132,58499.63628,1531.437839,198,English,23
+Brown University,2015,2015,172061,Computer hardware engineers,TRUE,TRUE,284,105959.6514,66206.30816,413.7456908,17,English,23
+Brown University,2015,2015,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,3924,136668.0245,54624.51417,1537.917747,203,English,23
+Brown University,2014,2014,172061,Computer hardware engineers,TRUE,TRUE,275,93656.74182,54192.20318,407.1370892,16,English,23
+Brown University,2014,2014,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,3813,125434.9321,51839.50378,1516.010068,201,English,23
+University of columbia,2020,2020,291020,Dentists,TRUE,TRUE,155,196242.3935,363102.5675,305.6612471,10,Architecture and Related Services,4
+University of columbia,2020,2020,291210,Physicians,TRUE,TRUE,780,188883.3154,129634.5238,685.6791083,40,Architecture and Related Services,4
+University of columbia,2020,2020,291240,Surgeons,TRUE,TRUE,107,299919.4206,476193.1889,253.9606855,5,Architecture and Related Services,4
+University of columbia,2020,2020,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,454,260657.9956,247003.58,523.1208379,25,Architecture and Related Services,4
+University of columbia,2020,2020,532010,Aircraft pilots & flight engineers,TRUE,TRUE,859,127976.5763,85930.83285,719.565085,30,Architecture and Related Services,4
+University of columbia,2019,2019,291020,Dentists,TRUE,TRUE,218,145776.4954,279935.43,362.4955541,10,Architecture and Related Services,4
+University of columbia,2019,2019,291210,Physicians,TRUE,TRUE,893,212150.9194,130678.7101,733.6673176,40,Architecture and Related Services,4
+University of columbia,2019,2019,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,444,249718.1644,255205.4914,517.3275295,22,Architecture and Related Services,4
+University of columbia,2019,2019,532010,Aircraft pilots & flight engineers,TRUE,TRUE,725,125199.291,62980.81864,661.0627628,26,Architecture and Related Services,4
+University of columbia,2018,2018,291020,Dentists,TRUE,TRUE,192,192308.0469,361393.2677,340.1927752,8,Architecture and Related Services,4
+University of columbia,2018,2018,291210,Physicians,TRUE,TRUE,853,205709.2087,138227.7579,717.0476219,35,Architecture and Related Services,4
+University of columbia,2018,2018,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,451,193117.1264,223798.8445,521.3895899,23,Architecture and Related Services,4
+University of columbia,2018,2018,532010,Aircraft pilots & flight engineers,TRUE,TRUE,633,119091.0174,50487.18858,617.6972501,23,Architecture and Related Services,4
+University of columbia,2017,2017,291020,Dentists,TRUE,TRUE,304,161637.8849,231555.0717,428.0663502,11,Architecture and Related Services,4
+University of columbia,2017,2017,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,453,151896.0199,175934.6927,522.5443703,24,Architecture and Related Services,4
+University of columbia,2017,2017,532010,Aircraft pilots & flight engineers,TRUE,TRUE,562,108586.1886,40364.99882,582.0255699,24,Architecture and Related Services,4
+University of columbia,2016,2016,291020,Dentists,TRUE,TRUE,281,160296.7331,240021.3127,411.5546237,9,Architecture and Related Services,4
+University of columbia,2016,2016,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,465,165521.9527,182843.4393,529.4202124,25,Architecture and Related Services,4
+University of columbia,2016,2016,532010,Aircraft pilots & flight engineers,TRUE,TRUE,470,126225.534,69512.4684,532.2589376,23,Architecture and Related Services,4
+University of columbia,2015,2015,291020,Dentists,TRUE,TRUE,260,139434.4462,210231.4185,395.8776879,8,Architecture and Related Services,4
+University of columbia,2015,2015,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,503,149585.3618,155875.9561,550.6275828,25,Architecture and Related Services,4
+University of columbia,2015,2015,532010,Aircraft pilots & flight engineers,TRUE,TRUE,305,122343.2984,108900.3995,428.7698116,17,Architecture and Related Services,4
+University of columbia,2014,2014,291020,Dentists,TRUE,TRUE,180,184695.1722,265835.0008,329.3902383,7,Architecture and Related Services,4
+University of columbia,2014,2014,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,524,154784.8798,146247.2224,562.0042078,25,Architecture and Related Services,4
+University of columbia,2014,2014,532010,Aircraft pilots & flight engineers,TRUE,TRUE,444,125994.9099,79712.54848,517.3274655,25,Architecture and Related Services,4
+University of columbia,2020,2020,291020,Dentists,TRUE,TRUE,1485,188477.3104,102831.8812,946.0973151,75,Math & Statistics,27
+University of columbia,2020,2020,291210,Physicians,TRUE,TRUE,8558,255107.9207,46431.3698,2271.163303,473,Math & Statistics,27
+University of columbia,2020,2020,291240,Surgeons,TRUE,TRUE,395,264488.4127,263330.079,487.9470849,24,Math & Statistics,27
+University of columbia,2020,2020,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,3439,290441.8284,96470.8763,1439.745761,145,Math & Statistics,27
+University of columbia,2020,2020,532010,Aircraft pilots & flight engineers,TRUE,TRUE,2290,205186.6258,82003.92456,1174.868189,119,Math & Statistics,27
+University of columbia,2019,2019,291020,Dentists,TRUE,TRUE,1540,194313.6325,107690.8901,963.4581423,82,Math & Statistics,27
+University of columbia,2019,2019,291210,Physicians,TRUE,TRUE,8685,263566.1641,45808.32902,2287.951852,500,Math & Statistics,27
+University of columbia,2019,2019,291240,Surgeons,TRUE,TRUE,376,309309.5931,259034.7842,476.0670541,24,Math & Statistics,27
+University of columbia,2019,2019,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,3342,273838.4832,98608.12499,1419.296266,148,Math & Statistics,27
+University of columbia,2019,2019,532010,Aircraft pilots & flight engineers,TRUE,TRUE,2127,186230.5896,76293.80097,1132.284003,122,Math & Statistics,27
+University of columbia,2018,2018,291020,Dentists,TRUE,TRUE,1678,189862.2449,100759.7901,1005.69949,86,Math & Statistics,27
+University of columbia,2018,2018,291210,Physicians,TRUE,TRUE,8724,253830.8376,44421.03456,2293.081829,491,Math & Statistics,27
+University of columbia,2018,2018,291240,Surgeons,TRUE,TRUE,334,261653.4102,279261.4178,448.6911391,22,Math & Statistics,27
+University of columbia,2018,2018,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,3252,254029.5317,96505.00107,1400.055231,139,Math & Statistics,27
+University of columbia,2018,2018,532010,Aircraft pilots & flight engineers,TRUE,TRUE,1878,185436.6928,80349.73784,1063.946394,112,Math & Statistics,27
+University of columbia,2017,2017,291020,Dentists,TRUE,TRUE,1659,164241.5443,81383.86837,999.9894948,81,Math & Statistics,27
+University of columbia,2017,2017,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,2861,239858.4939,99539.36348,1313.195398,126,Math & Statistics,27
+University of columbia,2017,2017,532010,Aircraft pilots & flight engineers,TRUE,TRUE,1987,161398.1691,62527.26232,1094.386384,112,Math & Statistics,27
+University of columbia,2016,2016,291020,Dentists,TRUE,TRUE,1558,161659.7644,74419.98141,969.072083,81,Math & Statistics,27
+University of columbia,2016,2016,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,3060,238359.8353,94082.27636,1358.096884,131,Math & Statistics,27
+University of columbia,2016,2016,532010,Aircraft pilots & flight engineers,TRUE,TRUE,1796,152191.4237,58031.10441,1040.45944,102,Math & Statistics,27
+University of columbia,2015,2015,291020,Dentists,TRUE,TRUE,1614,158639.1351,73886.74571,986.3339784,81,Math & Statistics,27
+University of columbia,2015,2015,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,3234,174706.7183,73428.80687,1396.174489,147,Math & Statistics,27
+University of columbia,2015,2015,532010,Aircraft pilots & flight engineers,TRUE,TRUE,1643,148717.4626,55650.82836,995.1555411,93,Math & Statistics,27
+University of columbia,2014,2014,291020,Dentists,TRUE,TRUE,1511,151476.2462,71011.51551,954.3431994,78,Math & Statistics,27
+University of columbia,2014,2014,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,3166,189432.3383,75851.37664,1381.418186,145,Math & Statistics,27
+University of columbia,2014,2014,532010,Aircraft pilots & flight engineers,TRUE,TRUE,1641,150196.5119,54325.6952,994.5495708,88,Math & Statistics,27
+University of columbia,2020,2020,291210,Physicians,TRUE,TRUE,349,181378.2006,214726.0471,458.655875,13,Legal,22
+University of columbia,2020,2020,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,179,137845.6313,247673.3487,328.4740096,8,Legal,22
+University of columbia,2020,2020,532010,Aircraft pilots & flight engineers,TRUE,TRUE,171,116771.3041,158978.3655,321.049918,8,Legal,22
+University of columbia,2019,2019,291210,Physicians,TRUE,TRUE,325,184738.4923,213763.5233,442.604638,12,Legal,22
+University of columbia,2019,2019,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,237,115368.3165,196007.3501,377.9623866,11,Legal,22
+University of columbia,2019,2019,532010,Aircraft pilots & flight engineers,TRUE,TRUE,167,145013.2156,188056.5737,317.272732,9,Legal,22
+University of columbia,2018,2018,291210,Physicians,TRUE,TRUE,221,218399.2579,222110.0063,364.9812593,10,Legal,22
+University of columbia,2018,2018,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,287,103921.9652,157877.6887,415.9252422,14,Legal,22
+University of columbia,2018,2018,532010,Aircraft pilots & flight engineers,TRUE,TRUE,129,130453.2868,168942.2717,278.8492117,7,Legal,22
+University of columbia,2017,2017,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,288,64983.61458,59317.08871,416.6492132,13,Legal,22
+University of columbia,2017,2017,532010,Aircraft pilots & flight engineers,TRUE,TRUE,183,102084.235,134187.837,332.1238214,6,Legal,22
+University of columbia,2016,2016,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,278,112907.3237,216076.0629,409.3518221,13,Legal,22
+University of columbia,2016,2016,532010,Aircraft pilots & flight engineers,TRUE,TRUE,173,102568.7977,139751.14,322.9219329,6,Legal,22
+University of columbia,2015,2015,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,300,105175.8033,196967.3573,425.2407896,15,Legal,22
+University of columbia,2015,2015,532010,Aircraft pilots & flight engineers,TRUE,TRUE,164,102026.3049,145309.2179,314.4100543,5,Legal,22
+University of columbia,2014,2014,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,229,116063.4891,246611.8669,371.5285006,11,Legal,22
+University of columbia,2014,2014,532010,Aircraft pilots & flight engineers,TRUE,TRUE,167,90668.64671,98600.44134,317.2727173,5,Legal,22
+University of columbia,2020,2020,291020,Dentists,TRUE,TRUE,1077,189488.4299,107549.489,805.7142274,66,Language & Linguistics,16
+University of columbia,2020,2020,291210,Physicians,TRUE,TRUE,7836,198952.8826,46868.13841,2173.254025,417,Language & Linguistics,16
+University of columbia,2020,2020,291240,Surgeons,TRUE,TRUE,403,310640.531,263389.5371,492.8635392,23,Language & Linguistics,16
+University of columbia,2020,2020,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,621,152622.1369,163620.8842,611.8143358,41,Language & Linguistics,16
+University of columbia,2020,2020,532010,Aircraft pilots & flight engineers,TRUE,TRUE,762,137697.9016,69818.00935,677.7212887,33,Language & Linguistics,16
+University of columbia,2019,2019,291020,Dentists,TRUE,TRUE,1112,198659.8822,107601.0332,818.7013657,64,Language & Linguistics,16
+University of columbia,2019,2019,291210,Physicians,TRUE,TRUE,7659,203703.0213,47043.46079,2148.570038,414,Language & Linguistics,16
+University of columbia,2019,2019,291240,Surgeons,TRUE,TRUE,344,262529,281369.0675,455.3585268,21,Language & Linguistics,16
+University of columbia,2019,2019,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,682,169258.6026,148719.6478,641.1592936,41,Language & Linguistics,16
+University of columbia,2019,2019,532010,Aircraft pilots & flight engineers,TRUE,TRUE,540,123490.9148,84661.56636,570.5199604,34,Language & Linguistics,16
+University of columbia,2018,2018,291020,Dentists,TRUE,TRUE,1081,169193.6494,99840.37024,807.208991,62,Language & Linguistics,16
+University of columbia,2018,2018,291210,Physicians,TRUE,TRUE,7585,198053.0647,45056.52812,2138.165012,408,Language & Linguistics,16
+University of columbia,2018,2018,291240,Surgeons,TRUE,TRUE,327,238497.581,256951.1498,443.9643995,21,Language & Linguistics,16
+University of columbia,2018,2018,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,897,176142.8205,126610.1669,735.3085909,50,Language & Linguistics,16
+University of columbia,2018,2018,532010,Aircraft pilots & flight engineers,TRUE,TRUE,591,109921.2217,54183.78601,596.8533229,31,Language & Linguistics,16
+University of columbia,2017,2017,291020,Dentists,TRUE,TRUE,969,180727.2167,103764.3157,764.2495273,60,Language & Linguistics,16
+University of columbia,2017,2017,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,1021,165816.3732,103388.9466,784.4875985,51,Language & Linguistics,16
+University of columbia,2017,2017,532010,Aircraft pilots & flight engineers,TRUE,TRUE,568,92922.21479,49247.43235,585.1242073,26,Language & Linguistics,16
+University of columbia,2016,2016,291020,Dentists,TRUE,TRUE,1005,166234.7194,107009.6843,778.316504,58,Language & Linguistics,16
+University of columbia,2016,2016,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,1070,155397.0533,101069.0401,803.0914409,52,Language & Linguistics,16
+University of columbia,2016,2016,532010,Aircraft pilots & flight engineers,TRUE,TRUE,537,90972.06704,45501.88477,568.9329323,24,Language & Linguistics,16
+University of columbia,2015,2015,291020,Dentists,TRUE,TRUE,1082,158686.8013,98692.8206,807.5821169,59,Language & Linguistics,16
+University of columbia,2015,2015,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,1055,167813.8815,107713.5792,797.4424216,53,Language & Linguistics,16
+University of columbia,2015,2015,532010,Aircraft pilots & flight engineers,TRUE,TRUE,426,98340.02347,78003.99523,506.7326532,19,Language & Linguistics,16
+University of columbia,2014,2014,291020,Dentists,TRUE,TRUE,965,137927.8964,99778.24362,762.670376,52,Language & Linguistics,16
+University of columbia,2014,2014,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,1090,160591.5174,114856.0996,810.562058,59,Language & Linguistics,16
+University of columbia,2014,2014,532010,Aircraft pilots & flight engineers,TRUE,TRUE,497,90719.17103,64210.16143,547.3336648,21,Language & Linguistics,16
+University of columbia,2020,2020,291020,Dentists,TRUE,TRUE,351,182810.9031,219169.3175,459.9681947,24,Public Administration and Social Service,44
+University of columbia,2020,2020,291210,Physicians,TRUE,TRUE,2507,193103.1324,77798.30292,1229.272746,124,Public Administration and Social Service,44
+University of columbia,2020,2020,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,618,131995.1667,124388.0675,610.3347405,27,Public Administration and Social Service,44
+University of columbia,2020,2020,532010,Aircraft pilots & flight engineers,TRUE,TRUE,342,261462.848,208021.2399,454.0328863,16,Public Administration and Social Service,44
+University of columbia,2019,2019,291020,Dentists,TRUE,TRUE,425,165461.04,171262.9362,506.1375958,25,Public Administration and Social Service,44
+University of columbia,2019,2019,291210,Physicians,TRUE,TRUE,2410,185537.3407,77109.21252,1205.257191,117,Public Administration and Social Service,44
+University of columbia,2019,2019,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,539,164921.0594,206789.5033,569.9914583,30,Public Administration and Social Service,44
+University of columbia,2019,2019,532010,Aircraft pilots & flight engineers,TRUE,TRUE,295,220744.9525,198029.4062,421.6822614,14,Public Administration and Social Service,44
+University of columbia,2018,2018,291020,Dentists,TRUE,TRUE,439,163834.0524,178887.3908,514.4063996,22,Public Administration and Social Service,44
+University of columbia,2018,2018,291210,Physicians,TRUE,TRUE,2081,178807.53,76829.44098,1119.973353,107,Public Administration and Social Service,44
+University of columbia,2018,2018,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,686,200859.8513,212601.9487,643.0367466,36,Public Administration and Social Service,44
+University of columbia,2018,2018,532010,Aircraft pilots & flight engineers,TRUE,TRUE,287,213728.7666,181426.3596,415.9252422,14,Public Administration and Social Service,44
+University of columbia,2017,2017,291020,Dentists,TRUE,TRUE,400,167921.985,185705.7592,491.0256149,18,Public Administration and Social Service,44
+University of columbia,2017,2017,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,701,205662.7646,212982.7134,650.0289595,37,Public Administration and Social Service,44
+University of columbia,2017,2017,532010,Aircraft pilots & flight engineers,TRUE,TRUE,268,185504.3806,171571.6494,401.9219729,15,Public Administration and Social Service,44
+University of columbia,2016,2016,291020,Dentists,TRUE,TRUE,320,187205.0188,212259.5668,439.1867754,13,Public Administration and Social Service,44
+University of columbia,2016,2016,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,616,218513.6834,232280.9256,609.3462808,34,Public Administration and Social Service,44
+University of columbia,2016,2016,532010,Aircraft pilots & flight engineers,TRUE,TRUE,202,162811.9455,194898.5572,348.9394979,12,Public Administration and Social Service,44
+University of columbia,2015,2015,291020,Dentists,TRUE,TRUE,352,179166.3466,180706.7409,460.6229143,15,Public Administration and Social Service,44
+University of columbia,2015,2015,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,638,210493.8981,210402.2668,620.1319369,30,Public Administration and Social Service,44
+University of columbia,2015,2015,532010,Aircraft pilots & flight engineers,TRUE,TRUE,216,150335.7454,184570.9592,360.8288845,13,Public Administration and Social Service,44
+University of columbia,2014,2014,291020,Dentists,TRUE,TRUE,332,181734.8133,162704.5519,447.3457044,15,Public Administration and Social Service,44
+University of columbia,2014,2014,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,705,166418.1447,172496.4041,651.8808059,34,Public Administration and Social Service,44
+University of columbia,2014,2014,532010,Aircraft pilots & flight engineers,TRUE,TRUE,212,141208.7123,190760.1537,357.4722644,13,Public Administration and Social Service,44
+Cornell University,2020,2020,291020,Dentists,TRUE,TRUE,770,197077.1909,133661.9177,681.2695736,52,Agriculture,1
+Cornell University,2020,2020,291210,Physicians,TRUE,TRUE,3873,247844.3003,69303.59786,1527.89262,214,Agriculture,1
+Cornell University,2020,2020,291240,Surgeons,TRUE,TRUE,236,302571.4661,262042.9568,377.1641575,13,Agriculture,1
+Cornell University,2020,2020,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,1369,147283.3083,80373.29332,908.3944605,84,Agriculture,1
+Cornell University,2020,2020,4750YY,"Derrick, rotary drill, & service unit operators, & roustabouts, oil, gas, & mining",TRUE,TRUE,139,70161.06475,62897.81334,289.4555993,5,Agriculture,1
+Cornell University,2019,2019,291020,Dentists,TRUE,TRUE,878,211466.5296,120091.3317,727.4794399,55,Agriculture,1
+Cornell University,2019,2019,291210,Physicians,TRUE,TRUE,4144,244071.6938,65070.60643,1580.441881,235,Agriculture,1
+Cornell University,2019,2019,291240,Surgeons,TRUE,TRUE,207,279342.1546,291261.8389,353.2316635,11,Agriculture,1
+Cornell University,2019,2019,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,1304,150738.6825,88166.76248,886.5671476,78,Agriculture,1
+Cornell University,2019,2019,4750YY,"Derrick, rotary drill, & service unit operators, & roustabouts, oil, gas, & mining",TRUE,TRUE,141,67925.33333,62774.35332,291.5305737,5,Agriculture,1
+Cornell University,2018,2018,291020,Dentists,TRUE,TRUE,948,182995.847,108248.7777,755.9229154,52,Agriculture,1
+Cornell University,2018,2018,291210,Physicians,TRUE,TRUE,4334,240646.8399,61397.97503,1616.265627,233,Agriculture,1
+Cornell University,2018,2018,291240,Surgeons,TRUE,TRUE,223,260414.8879,251449.0101,366.6290361,13,Agriculture,1
+Cornell University,2018,2018,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,1357,140750.7929,78933.59921,904.4043761,83,Agriculture,1
+Cornell University,2018,2018,4750YY,"Derrick, rotary drill, & service unit operators, & roustabouts, oil, gas, & mining",TRUE,TRUE,68,86567.57353,157822.4185,202.4552827,5,Agriculture,1
+Cornell University,2017,2017,291020,Dentists,TRUE,TRUE,900,152637.4178,98329.0103,736.5371373,47,Agriculture,1
+Cornell University,2017,2017,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,1370,143717.819,76739.49299,908.7260253,83,Agriculture,1
+Cornell University,2017,2017,4750YY,"Derrick, rotary drill, & service unit operators, & roustabouts, oil, gas, & mining",TRUE,TRUE,79,79322.27848,137226.4212,218.2168009,6,Agriculture,1
+Cornell University,2016,2016,291020,Dentists,TRUE,TRUE,829,152073.3848,105988.7209,706.8882217,48,Agriculture,1
+Cornell University,2016,2016,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,1284,148562.3287,83239.07684,879.7419273,80,Agriculture,1
+Cornell University,2016,2016,4750YY,"Derrick, rotary drill, & service unit operators, & roustabouts, oil, gas, & mining",TRUE,TRUE,70,78230.57143,151961.7334,205.4109876,6,Agriculture,1
+Cornell University,2015,2015,291020,Dentists,TRUE,TRUE,922,135834.4859,89337.50147,745.4847681,49,Agriculture,1
+Cornell University,2015,2015,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,1515,126303.5188,75117.74655,955.6056324,80,Agriculture,1
+Cornell University,2015,2015,4750YY,"Derrick, rotary drill, & service unit operators, & roustabouts, oil, gas, & mining",TRUE,TRUE,121,68444.40496,130543.9805,270.0643472,6,Agriculture,1
+Cornell University,2014,2014,291020,Dentists,TRUE,TRUE,838,126078.2649,80452.28528,710.71492,45,Agriculture,1
+Cornell University,2014,2014,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,1529,119643.7044,71185.65629,960.0106809,81,Agriculture,1
+Cornell University,2014,2014,4750YY,"Derrick, rotary drill, & service unit operators, & roustabouts, oil, gas, & mining",TRUE,TRUE,132,64172.23485,117762.9425,282.0729977,8,Agriculture,1
+Cornell University,2020,2020,291020,Dentists,TRUE,TRUE,155,196242.3935,363102.5675,305.6612471,10,Architecture and Related Services,4
+Cornell University,2020,2020,291210,Physicians,TRUE,TRUE,780,188883.3154,129634.5238,685.6791083,40,Architecture and Related Services,4
+Cornell University,2020,2020,291240,Surgeons,TRUE,TRUE,107,299919.4206,476193.1889,253.9606855,5,Architecture and Related Services,4
+Cornell University,2020,2020,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,454,260657.9956,247003.58,523.1208379,25,Architecture and Related Services,4
+Cornell University,2019,2019,291020,Dentists,TRUE,TRUE,218,145776.4954,279935.43,362.4955541,10,Architecture and Related Services,4
+Cornell University,2019,2019,291210,Physicians,TRUE,TRUE,893,212150.9194,130678.7101,733.6673176,40,Architecture and Related Services,4
+Cornell University,2019,2019,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,444,249718.1644,255205.4914,517.3275295,22,Architecture and Related Services,4
+Cornell University,2018,2018,291020,Dentists,TRUE,TRUE,192,192308.0469,361393.2677,340.1927752,8,Architecture and Related Services,4
+Cornell University,2018,2018,291210,Physicians,TRUE,TRUE,853,205709.2087,138227.7579,717.0476219,35,Architecture and Related Services,4
+Cornell University,2018,2018,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,451,193117.1264,223798.8445,521.3895899,23,Architecture and Related Services,4
+Cornell University,2017,2017,291020,Dentists,TRUE,TRUE,304,161637.8849,231555.0717,428.0663502,11,Architecture and Related Services,4
+Cornell University,2017,2017,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,453,151896.0199,175934.6927,522.5443703,24,Architecture and Related Services,4
+Cornell University,2016,2016,291020,Dentists,TRUE,TRUE,281,160296.7331,240021.3127,411.5546237,9,Architecture and Related Services,4
+Cornell University,2016,2016,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,465,165521.9527,182843.4393,529.4202124,25,Architecture and Related Services,4
+Cornell University,2015,2015,291020,Dentists,TRUE,TRUE,260,139434.4462,210231.4185,395.8776879,8,Architecture and Related Services,4
+Cornell University,2015,2015,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,503,149585.3618,155875.9561,550.6275828,25,Architecture and Related Services,4
+Cornell University,2014,2014,291020,Dentists,TRUE,TRUE,180,184695.1722,265835.0008,329.3902383,7,Architecture and Related Services,4
+Cornell University,2014,2014,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,524,154784.8798,146247.2224,562.0042078,25,Architecture and Related Services,4
+Cornell University,2020,2020,291020,Dentists,TRUE,TRUE,3661,184133.9391,58548.99597,1485.488383,195,Engineering,14
+Cornell University,2020,2020,291210,Physicians,TRUE,TRUE,32543,253486.918,24657.65654,4428.492083,1734,Engineering,14
+Cornell University,2020,2020,291240,Surgeons,TRUE,TRUE,2560,330385.8848,102182.2941,1242.198473,120,Engineering,14
+Cornell University,2020,2020,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,8487,237055.152,56633.63815,2261.723062,387,Engineering,14
+Cornell University,2020,2020,4750YY,"Derrick, rotary drill, & service unit operators, & roustabouts, oil, gas, & mining",TRUE,TRUE,506,140920.5711,137732.5954,552.2672321,25,Engineering,14
+Cornell University,2019,2019,291020,Dentists,TRUE,TRUE,3725,177141.8523,54458.86818,1498.416035,194,Engineering,14
+Cornell University,2019,2019,291210,Physicians,TRUE,TRUE,34268,247497.0148,23826.71142,4544.317553,1837,Engineering,14
+Cornell University,2019,2019,291240,Surgeons,TRUE,TRUE,1989,290662.7471,113189.9346,1094.937226,107,Engineering,14
+Cornell University,2019,2019,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,7930,230350.6612,57451.31843,2186.249257,391,Engineering,14
+Cornell University,2019,2019,4750YY,"Derrick, rotary drill, & service unit operators, & roustabouts, oil, gas, & mining",TRUE,TRUE,535,149777.6318,129740.094,567.8725313,28,Engineering,14
+Cornell University,2018,2018,291020,Dentists,TRUE,TRUE,3631,172388.0325,52007.18185,1479.389249,192,Engineering,14
+Cornell University,2018,2018,291210,Physicians,TRUE,TRUE,34403,236322.6202,23035.35121,4553.250158,1825,Engineering,14
+Cornell University,2018,2018,291240,Surgeons,TRUE,TRUE,1745,257554.0401,109565.0251,1025.580766,89,Engineering,14
+Cornell University,2018,2018,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,7854,217235.3322,56106.42873,2175.747397,381,Engineering,14
+Cornell University,2018,2018,4750YY,"Derrick, rotary drill, & service unit operators, & roustabouts, oil, gas, & mining",TRUE,TRUE,635,185534.5339,130315.1693,618.6723013,30,Engineering,14
+Cornell University,2017,2017,291020,Dentists,TRUE,TRUE,3597,164310.1384,49980.46486,1472.446509,189,Engineering,14
+Cornell University,2017,2017,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,7815,203006.106,55114.38976,2170.338162,367,Engineering,14
+Cornell University,2017,2017,4750YY,"Derrick, rotary drill, & service unit operators, & roustabouts, oil, gas, & mining",TRUE,TRUE,670,172098.097,106478.3515,635.4935466,29,Engineering,14
+Cornell University,2016,2016,291020,Dentists,TRUE,TRUE,3809,161445.2954,48229.93498,1515.215383,196,Engineering,14
+Cornell University,2016,2016,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,7315,193911.6496,53990.28528,2099.764759,352,Engineering,14
+Cornell University,2016,2016,4750YY,"Derrick, rotary drill, & service unit operators, & roustabouts, oil, gas, & mining",TRUE,TRUE,769,159166.4577,95583.87168,680.8269563,30,Engineering,14
+Cornell University,2015,2015,291020,Dentists,TRUE,TRUE,3573,162997.7456,48685.17409,1467.525537,185,Engineering,14
+Cornell University,2015,2015,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,7237,190447.8278,52003.33591,2088.539548,351,Engineering,14
+Cornell University,2015,2015,4750YY,"Derrick, rotary drill, & service unit operators, & roustabouts, oil, gas, & mining",TRUE,TRUE,750,162610.6933,100489.7997,672.3636327,34,Engineering,14
+Cornell University,2014,2014,291020,Dentists,TRUE,TRUE,3447,154607.7357,48114.22966,1441.417889,177,Engineering,14
+Cornell University,2014,2014,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,7466,185262.4012,48990.40573,2121.323263,358,Engineering,14
+Cornell University,2014,2014,4750YY,"Derrick, rotary drill, & service unit operators, & roustabouts, oil, gas, & mining",TRUE,TRUE,758,152485.2414,104755.3231,675.9400097,35,Engineering,14
+Cornell University,2020,2020,291210,Physicians,TRUE,TRUE,349,181378.2006,214726.0471,458.655875,13,Legal,22
+Cornell University,2020,2020,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,179,137845.6313,247673.3487,328.4740096,8,Legal,22
+Cornell University,2019,2019,291210,Physicians,TRUE,TRUE,325,184738.4923,213763.5233,442.604638,12,Legal,22
+Cornell University,2019,2019,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,237,115368.3165,196007.3501,377.9623866,11,Legal,22
+Cornell University,2018,2018,291210,Physicians,TRUE,TRUE,221,218399.2579,222110.0063,364.9812593,10,Legal,22
+Cornell University,2018,2018,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,287,103921.9652,157877.6887,415.9252422,14,Legal,22
+Cornell University,2017,2017,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,288,64983.61458,59317.08871,416.6492132,13,Legal,22
+Cornell University,2016,2016,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,278,112907.3237,216076.0629,409.3518221,13,Legal,22
+Cornell University,2015,2015,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,300,105175.8033,196967.3573,425.2407896,15,Legal,22
+Cornell University,2014,2014,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,229,116063.4891,246611.8669,371.5285006,11,Legal,22
+Cornell University,2020,2020,291020,Dentists,TRUE,TRUE,9566,184146.6066,36581.4036,2401.18672,497,Physical Sciences,40
+Cornell University,2020,2020,291210,Physicians,TRUE,TRUE,69370,270185.9715,16425.57231,6464.857529,3802,Physical Sciences,40
+Cornell University,2020,2020,291240,Surgeons,TRUE,TRUE,4452,329569.3747,66718.31234,1638.120384,256,Physical Sciences,40
+Cornell University,2020,2020,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,2048,214282.1729,104123.9183,1111.05801,94,Physical Sciences,40
+Cornell University,2020,2020,4750YY,"Derrick, rotary drill, & service unit operators, & roustabouts, oil, gas, & mining",TRUE,TRUE,58,265928.5862,608553.3171,186.977208,5,Physical Sciences,40
+Cornell University,2019,2019,291020,Dentists,TRUE,TRUE,9013,191081.7863,38364.63833,2330.752571,499,Physical Sciences,40
+Cornell University,2019,2019,291210,Physicians,TRUE,TRUE,70432,267217.3937,16073.31735,6514.124167,3953,Physical Sciences,40
+Cornell University,2019,2019,291240,Surgeons,TRUE,TRUE,4511,303169.6752,66604.06355,1648.938771,244,Physical Sciences,40
+Cornell University,2019,2019,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,1806,238905.6274,119645.7685,1043.352287,98,Physical Sciences,40
+Cornell University,2019,2019,4750YY,"Derrick, rotary drill, & service unit operators, & roustabouts, oil, gas, & mining",TRUE,TRUE,65,243405.0308,562798.4968,197.9389861,6,Physical Sciences,40
+Cornell University,2018,2018,291020,Dentists,TRUE,TRUE,9556,192056.327,36121.10211,2399.929874,522,Physical Sciences,40
+Cornell University,2018,2018,291210,Physicians,TRUE,TRUE,69303,258477.3763,15582.23768,6461.706248,3890,Physical Sciences,40
+Cornell University,2018,2018,291240,Surgeons,TRUE,TRUE,4133,291532.2328,63947.11416,1578.342629,225,Physical Sciences,40
+Cornell University,2018,2018,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,1801,235964.6124,114718.5153,1041.906924,92,Physical Sciences,40
+Cornell University,2018,2018,4750YY,"Derrick, rotary drill, & service unit operators, & roustabouts, oil, gas, & mining",TRUE,TRUE,147,176138.5238,306276.4298,297.6687244,10,Physical Sciences,40
+Cornell University,2017,2017,291020,Dentists,TRUE,TRUE,9533,197382.1845,35874.70295,2397.039047,531,Physical Sciences,40
+Cornell University,2017,2017,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,1891,222411.8065,107106.0292,1067.622351,96,Physical Sciences,40
+Cornell University,2017,2017,4750YY,"Derrick, rotary drill, & service unit operators, & roustabouts, oil, gas, & mining",TRUE,TRUE,194,190255.8763,246028.1889,341.9600167,13,Physical Sciences,40
+Cornell University,2016,2016,291020,Dentists,TRUE,TRUE,9535,190364.1849,34611.9975,2397.289053,529,Physical Sciences,40
+Cornell University,2016,2016,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,1878,218950.2764,102170.8625,1063.946172,89,Physical Sciences,40
+Cornell University,2016,2016,4750YY,"Derrick, rotary drill, & service unit operators, & roustabouts, oil, gas, & mining",TRUE,TRUE,169,148414.0592,183182.0668,319.1669036,11,Physical Sciences,40
+Cornell University,2015,2015,291020,Dentists,TRUE,TRUE,9345,189272.7425,33922.23222,2373.284299,531,Physical Sciences,40
+Cornell University,2015,2015,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,1787,213542.9496,106684.8633,1037.849151,88,Physical Sciences,40
+Cornell University,2015,2015,4750YY,"Derrick, rotary drill, & service unit operators, & roustabouts, oil, gas, & mining",TRUE,TRUE,182,137726.1264,175795.455,331.2151301,13,Physical Sciences,40
+Cornell University,2014,2014,291020,Dentists,TRUE,TRUE,10113,186156.1516,31774.40529,2468.872414,559,Physical Sciences,40
+Cornell University,2014,2014,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,1773,208693.6108,100415.959,1033.775657,82,Physical Sciences,40
+Cornell University,2014,2014,4750YY,"Derrick, rotary drill, & service unit operators, & roustabouts, oil, gas, & mining",TRUE,TRUE,222,128176.8423,145828.0348,365.8060569,15,Physical Sciences,40
+Dartmouth college,2020,2020,272099,"Entertainers & performers, sports & related workers, all other",TRUE,TRUE,127,50321.44094,368774.9662,276.6791502,8,Cultural & Gender Studies,5
+Dartmouth college,2020,2020,291240,Surgeons,TRUE,TRUE,139,211234.9137,316488.7268,289.4555993,9,Cultural & Gender Studies,5
+Dartmouth college,2020,2020,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,187,301388.7219,466889.0434,335.7339716,16,Cultural & Gender Studies,5
+Dartmouth college,2019,2019,193033,Clinical and counseling psychologists,TRUE,TRUE,133,54765.60902,77796.69961,283.1394495,6,Cultural & Gender Studies,5
+Dartmouth college,2019,2019,272099,"Entertainers & performers, sports & related workers, all other",TRUE,TRUE,117,9579.282051,18712.47226,265.5629701,7,Cultural & Gender Studies,5
+Dartmouth college,2019,2019,291240,Surgeons,TRUE,TRUE,105,179788.8857,269663.5937,251.5760266,7,Cultural & Gender Studies,5
+Dartmouth college,2019,2019,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,308,254139.2403,323732.1701,430.8733798,20,Cultural & Gender Studies,5
+Dartmouth college,2018,2018,193033,Clinical and counseling psychologists,TRUE,TRUE,137,53764.62774,75181.58195,287.3656392,6,Cultural & Gender Studies,5
+Dartmouth college,2018,2018,272099,"Entertainers & performers, sports & related workers, all other",TRUE,TRUE,116,9274.465517,18921.23379,264.4256496,6,Cultural & Gender Studies,5
+Dartmouth college,2018,2018,291240,Surgeons,TRUE,TRUE,101,157719.7822,300286.0474,246.7375765,6,Cultural & Gender Studies,5
+Dartmouth college,2018,2018,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,323,173029.4985,258385.5661,441.2406719,19,Cultural & Gender Studies,5
+Dartmouth college,2017,2017,272099,"Entertainers & performers, sports & related workers, all other",TRUE,TRUE,103,14763.28155,32576.97349,249.1685443,6,Cultural & Gender Studies,5
+Dartmouth college,2017,2017,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,312,177325.1186,259624.1668,433.6622141,18,Cultural & Gender Studies,5
+Dartmouth college,2016,2016,272099,"Entertainers & performers, sports & related workers, all other",TRUE,TRUE,74,19138.28378,37579.16039,211.198342,5,Cultural & Gender Studies,5
+Dartmouth college,2016,2016,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,274,158728.4453,250475.6728,406.3961804,15,Cultural & Gender Studies,5
+Dartmouth college,2015,2015,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,466,142105.6373,155870.3409,529.9891597,19,Cultural & Gender Studies,5
+Dartmouth college,2014,2014,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,449,148435.7884,172344.2935,520.232181,19,Cultural & Gender Studies,5
+Dartmouth college,2020,2020,172061,Computer hardware engineers,TRUE,TRUE,1224,106693.6667,59899.05339,858.9416743,49,Social Sciences,45
+Dartmouth college,2020,2020,193033,Clinical and counseling psychologists,TRUE,TRUE,967,78444.05791,46893.77496,763.4605117,55,Social Sciences,45
+Dartmouth college,2020,2020,272099,"Entertainers & performers, sports & related workers, all other",TRUE,TRUE,661,64817.14675,77449.95104,631.2109439,25,Social Sciences,45
+Dartmouth college,2020,2020,291240,Surgeons,TRUE,TRUE,1777,263141.4209,115058.4707,1034.94166,93,Social Sciences,45
+Dartmouth college,2020,2020,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,27587,242340.8414,30912.15669,4077.430608,1307,Social Sciences,45
+Dartmouth college,2019,2019,172061,Computer hardware engineers,TRUE,TRUE,942,104703.1369,72405.45001,753.5270079,44,Social Sciences,45
+Dartmouth college,2019,2019,193033,Clinical and counseling psychologists,TRUE,TRUE,1076,80322.53439,43051.94442,805.3400733,58,Social Sciences,45
+Dartmouth college,2019,2019,272099,"Entertainers & performers, sports & related workers, all other",TRUE,TRUE,602,69467.16113,83458.16689,602.3821827,25,Social Sciences,45
+Dartmouth college,2019,2019,291240,Surgeons,TRUE,TRUE,1788,231166.6538,109896.2484,1038.1399,89,Social Sciences,45
+Dartmouth college,2019,2019,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,27632,226284.226,30295.01878,4080.752229,1369,Social Sciences,45
+Dartmouth college,2018,2018,172061,Computer hardware engineers,TRUE,TRUE,933,99240.88853,72627.13807,749.9187056,42,Social Sciences,45
+Dartmouth college,2018,2018,193033,Clinical and counseling psychologists,TRUE,TRUE,984,79427.05691,45762.69539,770.1420519,55,Social Sciences,45
+Dartmouth college,2018,2018,272099,"Entertainers & performers, sports & related workers, all other",TRUE,TRUE,542,57516.85055,44804.26635,571.5754832,24,Social Sciences,45
+Dartmouth college,2018,2018,291240,Surgeons,TRUE,TRUE,1705,228340.7842,102011.3971,1013.758253,84,Social Sciences,45
+Dartmouth college,2018,2018,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,27931,216489.5214,28578.88584,4102.761461,1352,Social Sciences,45
+Dartmouth college,2017,2017,172061,Computer hardware engineers,TRUE,TRUE,952,90287.90651,46235.0351,757.5159649,45,Social Sciences,45
+Dartmouth college,2017,2017,272099,"Entertainers & performers, sports & related workers, all other",TRUE,TRUE,398,54662.05276,45822.69033,489.796516,19,Social Sciences,45
+Dartmouth college,2017,2017,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,28790,208691.4884,27084.44239,4165.354408,1349,Social Sciences,45
+Dartmouth college,2016,2016,172061,Computer hardware engineers,TRUE,TRUE,800,93955.28125,47858.6792,694.4140806,44,Social Sciences,45
+Dartmouth college,2016,2016,272099,"Entertainers & performers, sports & related workers, all other",TRUE,TRUE,389,98923.64267,112533.5666,484.226953,19,Social Sciences,45
+Dartmouth college,2016,2016,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,29424,201076.3396,25075.08016,4210.951439,1375,Social Sciences,45
+Dartmouth college,2015,2015,172061,Computer hardware engineers,TRUE,TRUE,814,95330.91032,47594.04366,700.4637832,44,Social Sciences,45
+Dartmouth college,2015,2015,272099,"Entertainers & performers, sports & related workers, all other",TRUE,TRUE,555,64281.69189,85566.5376,578.3894736,22,Social Sciences,45
+Dartmouth college,2015,2015,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,29171,192104.8238,24649.04077,4192.805319,1371,Social Sciences,45
+Dartmouth college,2014,2014,172061,Computer hardware engineers,TRUE,TRUE,840,102123.6667,43156.54745,711.5625178,47,Social Sciences,45
+Dartmouth college,2014,2014,272099,"Entertainers & performers, sports & related workers, all other",TRUE,TRUE,660,72525.79091,80141.16434,630.7331755,24,Social Sciences,45
+Dartmouth college,2014,2014,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,30331,184081.3344,23298.04351,4275.331426,1425,Social Sciences,45
+Dartmouth college,2020,2020,172061,Computer hardware engineers,TRUE,TRUE,977,153480.7124,80426.33196,767.397905,56,Math & Statistics,27
+Dartmouth college,2020,2020,193033,Clinical and counseling psychologists,TRUE,TRUE,70,137507.3857,202514.1402,205.4109902,5,Math & Statistics,27
+Dartmouth college,2020,2020,291240,Surgeons,TRUE,TRUE,395,264488.4127,263330.079,487.9470849,24,Math & Statistics,27
+Dartmouth college,2020,2020,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,3439,290441.8284,96470.8763,1439.745761,145,Math & Statistics,27
+Dartmouth college,2019,2019,172061,Computer hardware engineers,TRUE,TRUE,890,144862.2101,84804.06355,732.4339243,52,Math & Statistics,27
+Dartmouth college,2019,2019,193033,Clinical and counseling psychologists,TRUE,TRUE,69,134576.6522,196654.6317,203.9384914,5,Math & Statistics,27
+Dartmouth college,2019,2019,291240,Surgeons,TRUE,TRUE,376,309309.5931,259034.7842,476.0670541,24,Math & Statistics,27
+Dartmouth college,2019,2019,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,3342,273838.4832,98608.12499,1419.296266,148,Math & Statistics,27
+Dartmouth college,2018,2018,172061,Computer hardware engineers,TRUE,TRUE,805,145745.1342,99676.62505,696.5807942,46,Math & Statistics,27
+Dartmouth college,2018,2018,193033,Clinical and counseling psychologists,TRUE,TRUE,69,137981.6232,205927.3128,203.9384907,5,Math & Statistics,27
+Dartmouth college,2018,2018,291240,Surgeons,TRUE,TRUE,334,261653.4102,279261.4178,448.6911391,22,Math & Statistics,27
+Dartmouth college,2018,2018,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,3252,254029.5317,96505.00107,1400.055231,139,Math & Statistics,27
+Dartmouth college,2017,2017,172061,Computer hardware engineers,TRUE,TRUE,952,120303.8088,73415.47452,757.5159649,52,Math & Statistics,27
+Dartmouth college,2017,2017,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,2861,239858.4939,99539.36348,1313.195398,126,Math & Statistics,27
+Dartmouth college,2016,2016,172061,Computer hardware engineers,TRUE,TRUE,955,114695.3455,66670.7906,758.7085385,52,Math & Statistics,27
+Dartmouth college,2016,2016,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,3060,238359.8353,94082.27636,1358.096884,131,Math & Statistics,27
+Dartmouth college,2015,2015,172061,Computer hardware engineers,TRUE,TRUE,1072,100351.4515,55688.40968,803.841588,50,Math & Statistics,27
+Dartmouth college,2015,2015,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,3234,174706.7183,73428.80687,1396.174489,147,Math & Statistics,27
+Dartmouth college,2014,2014,172061,Computer hardware engineers,TRUE,TRUE,1143,102451.1374,52389.41043,830.0343252,55,Math & Statistics,27
+Dartmouth college,2014,2014,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,3166,189432.3383,75851.37664,1381.418186,145,Math & Statistics,27
+Dartmouth college,2020,2020,172061,Computer hardware engineers,TRUE,TRUE,18277,129700.7788,15279.5343,3318.947923,841,Engineering,14
+Dartmouth college,2020,2020,193033,Clinical and counseling psychologists,TRUE,TRUE,310,104631.6161,113232.4991,432.2700551,14,Engineering,14
+Dartmouth college,2020,2020,272099,"Entertainers & performers, sports & related workers, all other",TRUE,TRUE,270,66580.22963,79569.33226,403.418904,11,Engineering,14
+Dartmouth college,2020,2020,291240,Surgeons,TRUE,TRUE,2560,330385.8848,102182.2941,1242.198473,120,Engineering,14
+Dartmouth college,2020,2020,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,8487,237055.152,56633.63815,2261.723062,387,Engineering,14
+Dartmouth college,2019,2019,172061,Computer hardware engineers,TRUE,TRUE,17989,123621.9717,14188.1257,3292.697083,859,Engineering,14
+Dartmouth college,2019,2019,193033,Clinical and counseling psychologists,TRUE,TRUE,194,128048.1237,150683.8554,341.9600233,12,Engineering,14
+Dartmouth college,2019,2019,272099,"Entertainers & performers, sports & related workers, all other",TRUE,TRUE,311,68860.57878,75367.66087,432.9666997,13,Engineering,14
+Dartmouth college,2019,2019,291240,Surgeons,TRUE,TRUE,1989,290662.7471,113189.9346,1094.937226,107,Engineering,14
+Dartmouth college,2019,2019,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,7930,230350.6612,57451.31843,2186.249257,391,Engineering,14
+Dartmouth college,2018,2018,172061,Computer hardware engineers,TRUE,TRUE,17472,117389.1271,13426.32868,3245.039323,825,Engineering,14
+Dartmouth college,2018,2018,193033,Clinical and counseling psychologists,TRUE,TRUE,103,134380.9612,261468.4755,249.1685455,7,Engineering,14
+Dartmouth college,2018,2018,272099,"Entertainers & performers, sports & related workers, all other",TRUE,TRUE,353,64530.46459,66852.13383,461.2767699,17,Engineering,14
+Dartmouth college,2018,2018,291240,Surgeons,TRUE,TRUE,1745,257554.0401,109565.0251,1025.580766,89,Engineering,14
+Dartmouth college,2018,2018,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,7854,217235.3322,56106.42873,2175.747397,381,Engineering,14
+Dartmouth college,2017,2017,172061,Computer hardware engineers,TRUE,TRUE,18371,113796.3948,12286.7946,3327.463625,851,Engineering,14
+Dartmouth college,2017,2017,272099,"Entertainers & performers, sports & related workers, all other",TRUE,TRUE,438,51568.83333,58283.0406,513.820172,18,Engineering,14
+Dartmouth college,2017,2017,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,7815,203006.106,55114.38976,2170.338162,367,Engineering,14
+Dartmouth college,2016,2016,172061,Computer hardware engineers,TRUE,TRUE,19236,110483.2456,11043.5437,3404.885216,868,Engineering,14
+Dartmouth college,2016,2016,272099,"Entertainers & performers, sports & related workers, all other",TRUE,TRUE,279,42203.87455,69176.34563,410.087404,14,Engineering,14
+Dartmouth college,2016,2016,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,7315,193911.6496,53990.28528,2099.764759,352,Engineering,14
+Dartmouth college,2015,2015,172061,Computer hardware engineers,TRUE,TRUE,20058,109677.5039,10221.50066,3476.859461,887,Engineering,14
+Dartmouth college,2015,2015,272099,"Entertainers & performers, sports & related workers, all other",TRUE,TRUE,306,57225.61111,96691.49244,429.4721361,14,Engineering,14
+Dartmouth college,2015,2015,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,7237,190447.8278,52003.33591,2088.539548,351,Engineering,14
+Dartmouth college,2014,2014,172061,Computer hardware engineers,TRUE,TRUE,20324,108893.3144,9958.206462,3499.830119,905,Engineering,14
+Dartmouth college,2014,2014,272099,"Entertainers & performers, sports & related workers, all other",TRUE,TRUE,233,58560.81974,121522.5943,374.7592386,12,Engineering,14
+Dartmouth college,2014,2014,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,7466,185262.4012,48990.40573,2121.323263,358,Engineering,14
+Dartmouth college,2020,2020,172061,Computer hardware engineers,TRUE,TRUE,252,277496.2976,322044.3189,389.739712,11,History,54
+Dartmouth college,2020,2020,193033,Clinical and counseling psychologists,TRUE,TRUE,150,239350.3133,402032.0785,300.6908193,9,History,54
+Dartmouth college,2020,2020,272099,"Entertainers & performers, sports & related workers, all other",TRUE,TRUE,158,223975.9873,477348.8574,308.6050799,7,History,54
+Dartmouth college,2020,2020,291240,Surgeons,TRUE,TRUE,487,288105.1951,218478.0691,541.7994076,30,History,54
+Dartmouth college,2020,2020,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,4172,242577.884,81369.22197,1585.772188,195,History,54
+Dartmouth college,2019,2019,172061,Computer hardware engineers,TRUE,TRUE,295,93358.36949,33115.58493,421.6822614,13,History,54
+Dartmouth college,2019,2019,193033,Clinical and counseling psychologists,TRUE,TRUE,104,71228.63462,83299.29341,250.3751804,9,History,54
+Dartmouth college,2019,2019,272099,"Entertainers & performers, sports & related workers, all other",TRUE,TRUE,187,186227.0053,413842.5561,335.7339705,9,History,54
+Dartmouth college,2019,2019,291240,Surgeons,TRUE,TRUE,471,291548.879,231005.2895,532.824908,32,History,54
+Dartmouth college,2019,2019,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,4278,224265.6847,76907.72234,1605.790371,209,History,54
+Dartmouth college,2018,2018,172061,Computer hardware engineers,TRUE,TRUE,289,91129.46713,38230.29729,417.3719402,11,History,54
+Dartmouth college,2018,2018,193033,Clinical and counseling psychologists,TRUE,TRUE,104,70352.48077,82202.62901,250.3751791,9,History,54
+Dartmouth college,2018,2018,272099,"Entertainers & performers, sports & related workers, all other",TRUE,TRUE,246,240992.2398,335998.1836,385.0720036,10,History,54
+Dartmouth college,2018,2018,291240,Surgeons,TRUE,TRUE,447,252847.9172,217217.5312,519.0722985,30,History,54
+Dartmouth college,2018,2018,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,4267,215776.4846,74397.62909,1603.724282,215,History,54
+Dartmouth college,2017,2017,172061,Computer hardware engineers,TRUE,TRUE,214,90218.00467,41542.68087,359.1545072,8,History,54
+Dartmouth college,2017,2017,272099,"Entertainers & performers, sports & related workers, all other",TRUE,TRUE,193,229210.2332,411181.0236,341.077539,9,History,54
+Dartmouth college,2017,2017,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,4670,201339.9745,67253.41337,1677.745652,232,History,54
+Dartmouth college,2016,2016,172061,Computer hardware engineers,TRUE,TRUE,229,85380.87773,44124.60577,371.5285107,9,History,54
+Dartmouth college,2016,2016,272099,"Entertainers & performers, sports & related workers, all other",TRUE,TRUE,181,154742.1878,322192.389,330.3039497,9,History,54
+Dartmouth college,2016,2016,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,4850,185726.0363,60892.76999,1709.771794,236,History,54
+Dartmouth college,2015,2015,172061,Computer hardware engineers,TRUE,TRUE,220,83666.20455,48632.96049,364.1545614,11,History,54
+Dartmouth college,2015,2015,272099,"Entertainers & performers, sports & related workers, all other",TRUE,TRUE,202,144120.0545,285500.5558,348.9394939,10,History,54
+Dartmouth college,2015,2015,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,4780,174379.9416,57384.14731,1697.388345,235,History,54
+Dartmouth college,2014,2014,172061,Computer hardware engineers,TRUE,TRUE,121,144305.4132,158166.2513,270.0643452,7,History,54
+Dartmouth college,2014,2014,272099,"Entertainers & performers, sports & related workers, all other",TRUE,TRUE,230,125152.6652,263057.0318,372.3388132,10,History,54
+Dartmouth college,2014,2014,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,5048,161204.0172,53461.27938,1744.320914,243,History,54
+Harvard University,2020,2020,172061,Computer hardware engineers,TRUE,TRUE,135,101935.0296,131770.8029,285.2603726,9,Architecture and Related Services,4
+Harvard University,2020,2020,291240,Surgeons,TRUE,TRUE,107,299919.4206,476193.1889,253.9606855,5,Architecture and Related Services,4
+Harvard University,2020,2020,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,454,260657.9956,247003.58,523.1208379,25,Architecture and Related Services,4
+Harvard University,2019,2019,172061,Computer hardware engineers,TRUE,TRUE,152,97894.19079,120616.6035,302.6887841,10,Architecture and Related Services,4
+Harvard University,2019,2019,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,444,249718.1644,255205.4914,517.3275295,22,Architecture and Related Services,4
+Harvard University,2018,2018,172061,Computer hardware engineers,TRUE,TRUE,126,86525.23016,150822.4478,275.587708,9,Architecture and Related Services,4
+Harvard University,2018,2018,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,451,193117.1264,223798.8445,521.3895899,23,Architecture and Related Services,4
+Harvard University,2017,2017,172061,Computer hardware engineers,TRUE,TRUE,102,88608.80392,174622.2695,247.9560389,7,Architecture and Related Services,4
+Harvard University,2017,2017,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,453,151896.0199,175934.6927,522.5443703,24,Architecture and Related Services,4
+Harvard University,2016,2016,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,465,165521.9527,182843.4393,529.4202124,25,Architecture and Related Services,4
+Harvard University,2015,2015,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,503,149585.3618,155875.9561,550.6275828,25,Architecture and Related Services,4
+Harvard University,2014,2014,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,524,154784.8798,146247.2224,562.0042078,25,Architecture and Related Services,4
+Harvard University,2020,2020,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,179,137845.6313,247673.3487,328.4740096,8,Legal,22
+Harvard University,2019,2019,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,237,115368.3165,196007.3501,377.9623866,11,Legal,22
+Harvard University,2018,2018,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,287,103921.9652,157877.6887,415.9252422,14,Legal,22
+Harvard University,2017,2017,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,288,64983.61458,59317.08871,416.6492132,13,Legal,22
+Harvard University,2016,2016,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,278,112907.3237,216076.0629,409.3518221,13,Legal,22
+Harvard University,2015,2015,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,300,105175.8033,196967.3573,425.2407896,15,Legal,22
+Harvard University,2014,2014,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,229,116063.4891,246611.8669,371.5285006,11,Legal,22
+Harvard University,2020,2020,172061,Computer hardware engineers,TRUE,TRUE,138,98123.07971,59454.77087,288.4125137,6,Natural Resources & Conservation,3
+Harvard University,2020,2020,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,569,111044.109,101517.3442,585.6390916,31,Natural Resources & Conservation,3
+Harvard University,2019,2019,172061,Computer hardware engineers,TRUE,TRUE,101,79495.20792,37245.92352,246.7375777,6,Natural Resources & Conservation,3
+Harvard University,2019,2019,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,493,119779.6815,134019.7656,545.1267481,26,Natural Resources & Conservation,3
+Harvard University,2018,2018,172061,Computer hardware engineers,TRUE,TRUE,105,119494.1143,187453.346,251.5760253,6,Natural Resources & Conservation,3
+Harvard University,2018,2018,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,436,113720.6743,149980.7655,512.6457389,24,Natural Resources & Conservation,3
+Harvard University,2017,2017,172061,Computer hardware engineers,TRUE,TRUE,112,116542.1786,164196.2617,259.826594,7,Natural Resources & Conservation,3
+Harvard University,2017,2017,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,420,139846.9738,196542.9774,503.1514949,24,Natural Resources & Conservation,3
+Harvard University,2016,2016,172061,Computer hardware engineers,TRUE,TRUE,111,114392.4685,161754.7922,258.6640522,7,Natural Resources & Conservation,3
+Harvard University,2016,2016,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,391,158759.4348,213301.9965,485.470153,26,Natural Resources & Conservation,3
+Harvard University,2015,2015,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,414,206907.5918,231624.3773,499.5446135,28,Natural Resources & Conservation,3
+Harvard University,2014,2014,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,469,189505.5352,199623.6946,531.6923756,31,Natural Resources & Conservation,3
+Harvard University,2020,2020,272099,"Entertainers & performers, sports & related workers, all other",TRUE,TRUE,127,50321.44094,368774.9662,276.6791502,8,Cultural & Gender Studies,5
+Harvard University,2020,2020,291240,Surgeons,TRUE,TRUE,139,211234.9137,316488.7268,289.4555993,9,Cultural & Gender Studies,5
+Harvard University,2020,2020,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,187,301388.7219,466889.0434,335.7339716,16,Cultural & Gender Studies,5
+Harvard University,2019,2019,193033,Clinical and counseling psychologists,TRUE,TRUE,133,54765.60902,77796.69961,283.1394495,6,Cultural & Gender Studies,5
+Harvard University,2019,2019,272099,"Entertainers & performers, sports & related workers, all other",TRUE,TRUE,117,9579.282051,18712.47226,265.5629701,7,Cultural & Gender Studies,5
+Harvard University,2019,2019,291240,Surgeons,TRUE,TRUE,105,179788.8857,269663.5937,251.5760266,7,Cultural & Gender Studies,5
+Harvard University,2019,2019,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,308,254139.2403,323732.1701,430.8733798,20,Cultural & Gender Studies,5
+Harvard University,2018,2018,193033,Clinical and counseling psychologists,TRUE,TRUE,137,53764.62774,75181.58195,287.3656392,6,Cultural & Gender Studies,5
+Harvard University,2018,2018,272099,"Entertainers & performers, sports & related workers, all other",TRUE,TRUE,116,9274.465517,18921.23379,264.4256496,6,Cultural & Gender Studies,5
+Harvard University,2018,2018,291240,Surgeons,TRUE,TRUE,101,157719.7822,300286.0474,246.7375765,6,Cultural & Gender Studies,5
+Harvard University,2018,2018,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,323,173029.4985,258385.5661,441.2406719,19,Cultural & Gender Studies,5
+Harvard University,2017,2017,272099,"Entertainers & performers, sports & related workers, all other",TRUE,TRUE,103,14763.28155,32576.97349,249.1685443,6,Cultural & Gender Studies,5
+Harvard University,2017,2017,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,312,177325.1186,259624.1668,433.6622141,18,Cultural & Gender Studies,5
+Harvard University,2016,2016,272099,"Entertainers & performers, sports & related workers, all other",TRUE,TRUE,74,19138.28378,37579.16039,211.198342,5,Cultural & Gender Studies,5
+Harvard University,2016,2016,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,274,158728.4453,250475.6728,406.3961804,15,Cultural & Gender Studies,5
+Harvard University,2015,2015,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,466,142105.6373,155870.3409,529.9891597,19,Cultural & Gender Studies,5
+Harvard University,2014,2014,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,449,148435.7884,172344.2935,520.232181,19,Cultural & Gender Studies,5
+University of Pennsilvynia ,2020,2020,172011,Aerospace engineers,TRUE,TRUE,121,98374.61983,67066.25197,270.0643549,6,Architecture and Related Services,4
+University of Pennsilvynia ,2020,2020,291020,Dentists,TRUE,TRUE,155,196242.3935,363102.5675,305.6612471,10,Architecture and Related Services,4
+University of Pennsilvynia ,2020,2020,291210,Physicians,TRUE,TRUE,780,188883.3154,129634.5238,685.6791083,40,Architecture and Related Services,4
+University of Pennsilvynia ,2020,2020,291240,Surgeons,TRUE,TRUE,107,299919.4206,476193.1889,253.9606855,5,Architecture and Related Services,4
+University of Pennsilvynia ,2020,2020,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,454,260657.9956,247003.58,523.1208379,25,Architecture and Related Services,4
+University of Pennsilvynia ,2019,2019,172011,Aerospace engineers,TRUE,TRUE,169,123114.2722,119762.9381,319.1669123,8,Architecture and Related Services,4
+University of Pennsilvynia ,2019,2019,291020,Dentists,TRUE,TRUE,218,145776.4954,279935.43,362.4955541,10,Architecture and Related Services,4
+University of Pennsilvynia ,2019,2019,291210,Physicians,TRUE,TRUE,893,212150.9194,130678.7101,733.6673176,40,Architecture and Related Services,4
+University of Pennsilvynia ,2019,2019,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,444,249718.1644,255205.4914,517.3275295,22,Architecture and Related Services,4
+University of Pennsilvynia ,2018,2018,172011,Aerospace engineers,TRUE,TRUE,233,113136.7167,87127.25212,374.7592586,9,Architecture and Related Services,4
+University of Pennsilvynia ,2018,2018,291020,Dentists,TRUE,TRUE,192,192308.0469,361393.2677,340.1927752,8,Architecture and Related Services,4
+University of Pennsilvynia ,2018,2018,291210,Physicians,TRUE,TRUE,853,205709.2087,138227.7579,717.0476219,35,Architecture and Related Services,4
+University of Pennsilvynia ,2018,2018,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,451,193117.1264,223798.8445,521.3895899,23,Architecture and Related Services,4
+University of Pennsilvynia ,2017,2017,172011,Aerospace engineers,TRUE,TRUE,236,102042.1907,83378.66011,377.1641472,8,Architecture and Related Services,4
+University of Pennsilvynia ,2017,2017,291020,Dentists,TRUE,TRUE,304,161637.8849,231555.0717,428.0663502,11,Architecture and Related Services,4
+University of Pennsilvynia ,2017,2017,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,453,151896.0199,175934.6927,522.5443703,24,Architecture and Related Services,4
+University of Pennsilvynia ,2016,2016,172011,Aerospace engineers,TRUE,TRUE,268,90416.38806,83635.348,401.9219663,9,Architecture and Related Services,4
+University of Pennsilvynia ,2016,2016,291020,Dentists,TRUE,TRUE,281,160296.7331,240021.3127,411.5546237,9,Architecture and Related Services,4
+University of Pennsilvynia ,2016,2016,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,465,165521.9527,182843.4393,529.4202124,25,Architecture and Related Services,4
+University of Pennsilvynia ,2015,2015,172011,Aerospace engineers,TRUE,TRUE,250,92094.46,88975.54187,388.1900247,9,Architecture and Related Services,4
+University of Pennsilvynia ,2015,2015,291020,Dentists,TRUE,TRUE,260,139434.4462,210231.4185,395.8776879,8,Architecture and Related Services,4
+University of Pennsilvynia ,2015,2015,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,503,149585.3618,155875.9561,550.6275828,25,Architecture and Related Services,4
+University of Pennsilvynia ,2014,2014,172011,Aerospace engineers,TRUE,TRUE,254,81751.38976,53023.86937,391.2832096,9,Architecture and Related Services,4
+University of Pennsilvynia ,2014,2014,291020,Dentists,TRUE,TRUE,180,184695.1722,265835.0008,329.3902383,7,Architecture and Related Services,4
+University of Pennsilvynia ,2014,2014,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,524,154784.8798,146247.2224,562.0042078,25,Architecture and Related Services,4
+University of Pennsilvynia ,2020,2020,172011,Aerospace engineers,TRUE,TRUE,147,279638.2653,469324.7613,297.6687273,6,Philosophy and Religious Studies,38
+University of Pennsilvynia ,2020,2020,291020,Dentists,TRUE,TRUE,565,189874.2584,159151.751,583.5769835,36,Philosophy and Religious Studies,38
+University of Pennsilvynia ,2020,2020,291210,Physicians,TRUE,TRUE,6686,243515.6011,55229.21017,2007.465775,353,Philosophy and Religious Studies,38
+University of Pennsilvynia ,2020,2020,291240,Surgeons,TRUE,TRUE,421,215230.7482,207272.6427,503.7501516,19,Philosophy and Religious Studies,38
+University of Pennsilvynia ,2020,2020,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,887,199670.7317,167304.703,731.1984618,45,Philosophy and Religious Studies,38
+University of Pennsilvynia ,2019,2019,172011,Aerospace engineers,TRUE,TRUE,174,234382.0575,403553.9795,323.8538964,8,Philosophy and Religious Studies,38
+University of Pennsilvynia ,2019,2019,291020,Dentists,TRUE,TRUE,558,187856.4122,170624.0709,579.9506459,37,Philosophy and Religious Studies,38
+University of Pennsilvynia ,2019,2019,291210,Physicians,TRUE,TRUE,6897,235911.2924,54358.66316,2038.894318,362,Philosophy and Religious Studies,38
+University of Pennsilvynia ,2019,2019,291240,Surgeons,TRUE,TRUE,449,208397.657,183646.3313,520.2322461,19,Philosophy and Religious Studies,38
+University of Pennsilvynia ,2019,2019,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,953,210855.2088,178759.9617,757.9137842,45,Philosophy and Religious Studies,38
+University of Pennsilvynia ,2018,2018,172011,Aerospace engineers,TRUE,TRUE,132,292209.4848,463762.8621,282.0730062,6,Philosophy and Religious Studies,38
+University of Pennsilvynia ,2018,2018,291020,Dentists,TRUE,TRUE,489,186691.3783,170245.7492,542.9107707,30,Philosophy and Religious Studies,38
+University of Pennsilvynia ,2018,2018,291210,Physicians,TRUE,TRUE,6694,227600.0871,53000.0698,2008.665459,351,Philosophy and Religious Studies,38
+University of Pennsilvynia ,2018,2018,291240,Surgeons,TRUE,TRUE,375,172881.7387,190372.5453,475.4335575,17,Philosophy and Religious Studies,38
+University of Pennsilvynia ,2018,2018,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,1058,178906.2278,154111.9137,798.5755547,47,Philosophy and Religious Studies,38
+University of Pennsilvynia ,2017,2017,172011,Aerospace engineers,TRUE,TRUE,94,120486.9255,93773.39529,238.0337524,7,Philosophy and Religious Studies,38
+University of Pennsilvynia ,2017,2017,291020,Dentists,TRUE,TRUE,492,160402.0589,156301.552,544.5735759,31,Philosophy and Religious Studies,38
+University of Pennsilvynia ,2017,2017,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,1097,178830.0693,151501.4201,813.1607543,47,Philosophy and Religious Studies,38
+University of Pennsilvynia ,2016,2016,172011,Aerospace engineers,TRUE,TRUE,147,119214.7075,72562.78023,297.6687196,10,Philosophy and Religious Studies,38
+University of Pennsilvynia ,2016,2016,291020,Dentists,TRUE,TRUE,548,141443.8084,120744.6745,574.7304308,30,Philosophy and Religious Studies,38
+University of Pennsilvynia ,2016,2016,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,833,214148.9328,194477.828,708.5915593,36,Philosophy and Religious Studies,38
+University of Pennsilvynia ,2015,2015,172011,Aerospace engineers,TRUE,TRUE,163,106056,53182.75709,313.4500225,11,Philosophy and Religious Studies,38
+University of Pennsilvynia ,2015,2015,291020,Dentists,TRUE,TRUE,515,157504.868,132032.1568,557.1569677,27,Philosophy and Religious Studies,38
+University of Pennsilvynia ,2015,2015,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,844,253958.1339,197646.5428,713.2547282,38,Philosophy and Religious Studies,38
+University of Pennsilvynia ,2014,2014,172011,Aerospace engineers,TRUE,TRUE,198,105413.6414,44203.56711,345.4673736,10,Philosophy and Religious Studies,38
+University of Pennsilvynia ,2014,2014,291020,Dentists,TRUE,TRUE,554,150564.6516,110109.1936,577.8681498,26,Philosophy and Religious Studies,38
+University of Pennsilvynia ,2014,2014,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,799,202325.0864,178115.7985,693.979873,39,Philosophy and Religious Studies,38
+University of Pennsilvynia ,2020,2020,291210,Physicians,TRUE,TRUE,349,181378.2006,214726.0471,458.655875,13,Legal,22
+University of Pennsilvynia ,2020,2020,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,179,137845.6313,247673.3487,328.4740096,8,Legal,22
+University of Pennsilvynia ,2019,2019,291210,Physicians,TRUE,TRUE,325,184738.4923,213763.5233,442.604638,12,Legal,22
+University of Pennsilvynia ,2019,2019,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,237,115368.3165,196007.3501,377.9623866,11,Legal,22
+University of Pennsilvynia ,2018,2018,291210,Physicians,TRUE,TRUE,221,218399.2579,222110.0063,364.9812593,10,Legal,22
+University of Pennsilvynia ,2018,2018,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,287,103921.9652,157877.6887,415.9252422,14,Legal,22
+University of Pennsilvynia ,2017,2017,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,288,64983.61458,59317.08871,416.6492132,13,Legal,22
+University of Pennsilvynia ,2016,2016,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,278,112907.3237,216076.0629,409.3518221,13,Legal,22
+University of Pennsilvynia ,2015,2015,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,300,105175.8033,196967.3573,425.2407896,15,Legal,22
+University of Pennsilvynia ,2014,2014,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,229,116063.4891,246611.8669,371.5285006,11,Legal,22
+University of Pennsilvynia ,2020,2020,172011,Aerospace engineers,TRUE,TRUE,1851,139436.4608,46302.19981,1056.270757,99,Math & Statistics,27
+University of Pennsilvynia ,2020,2020,291020,Dentists,TRUE,TRUE,1485,188477.3104,102831.8812,946.0973151,75,Math & Statistics,27
+University of Pennsilvynia ,2020,2020,291210,Physicians,TRUE,TRUE,8558,255107.9207,46431.3698,2271.163303,473,Math & Statistics,27
+University of Pennsilvynia ,2020,2020,291240,Surgeons,TRUE,TRUE,395,264488.4127,263330.079,487.9470849,24,Math & Statistics,27
+University of Pennsilvynia ,2020,2020,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,3439,290441.8284,96470.8763,1439.745761,145,Math & Statistics,27
+University of Pennsilvynia ,2019,2019,172011,Aerospace engineers,TRUE,TRUE,1891,136348.6198,45237.88115,1067.622551,105,Math & Statistics,27
+University of Pennsilvynia ,2019,2019,291020,Dentists,TRUE,TRUE,1540,194313.6325,107690.8901,963.4581423,82,Math & Statistics,27
+University of Pennsilvynia ,2019,2019,291210,Physicians,TRUE,TRUE,8685,263566.1641,45808.32902,2287.951852,500,Math & Statistics,27
+University of Pennsilvynia ,2019,2019,291240,Surgeons,TRUE,TRUE,376,309309.5931,259034.7842,476.0670541,24,Math & Statistics,27
+University of Pennsilvynia ,2019,2019,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,3342,273838.4832,98608.12499,1419.296266,148,Math & Statistics,27
+University of Pennsilvynia ,2018,2018,172011,Aerospace engineers,TRUE,TRUE,1966,132012.7131,43667.44141,1088.588089,105,Math & Statistics,27
+University of Pennsilvynia ,2018,2018,291020,Dentists,TRUE,TRUE,1678,189862.2449,100759.7901,1005.69949,86,Math & Statistics,27
+University of Pennsilvynia ,2018,2018,291210,Physicians,TRUE,TRUE,8724,253830.8376,44421.03456,2293.081829,491,Math & Statistics,27
+University of Pennsilvynia ,2018,2018,291240,Surgeons,TRUE,TRUE,334,261653.4102,279261.4178,448.6911391,22,Math & Statistics,27
+University of Pennsilvynia ,2018,2018,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,3252,254029.5317,96505.00107,1400.055231,139,Math & Statistics,27
+University of Pennsilvynia ,2017,2017,172011,Aerospace engineers,TRUE,TRUE,1956,121603.7106,35315.20299,1085.815957,104,Math & Statistics,27
+University of Pennsilvynia ,2017,2017,291020,Dentists,TRUE,TRUE,1659,164241.5443,81383.86837,999.9894948,81,Math & Statistics,27
+University of Pennsilvynia ,2017,2017,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,2861,239858.4939,99539.36348,1313.195398,126,Math & Statistics,27
+University of Pennsilvynia ,2016,2016,172011,Aerospace engineers,TRUE,TRUE,2002,117074.1628,29436.41826,1098.509223,109,Math & Statistics,27
+University of Pennsilvynia ,2016,2016,291020,Dentists,TRUE,TRUE,1558,161659.7644,74419.98141,969.072083,81,Math & Statistics,27
+University of Pennsilvynia ,2016,2016,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,3060,238359.8353,94082.27636,1358.096884,131,Math & Statistics,27
+University of Pennsilvynia ,2015,2015,172011,Aerospace engineers,TRUE,TRUE,2030,118553.5704,29689.69688,1106.164194,115,Math & Statistics,27
+University of Pennsilvynia ,2015,2015,291020,Dentists,TRUE,TRUE,1614,158639.1351,73886.74571,986.3339784,81,Math & Statistics,27
+University of Pennsilvynia ,2015,2015,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,3234,174706.7183,73428.80687,1396.174489,147,Math & Statistics,27
+University of Pennsilvynia ,2014,2014,172011,Aerospace engineers,TRUE,TRUE,2108,121560.51,30832.07817,1127.214854,121,Math & Statistics,27
+University of Pennsilvynia ,2014,2014,291020,Dentists,TRUE,TRUE,1511,151476.2462,71011.51551,954.3431994,78,Math & Statistics,27
+University of Pennsilvynia ,2014,2014,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,3166,189432.3383,75851.37664,1381.418186,145,Math & Statistics,27
+University of Pennsilvynia ,2020,2020,172011,Aerospace engineers,TRUE,TRUE,85,98626.22353,134422.6156,226.3518753,5,Language & Linguistics,16
+University of Pennsilvynia ,2020,2020,291020,Dentists,TRUE,TRUE,1077,189488.4299,107549.489,805.7142274,66,Language & Linguistics,16
+University of Pennsilvynia ,2020,2020,291210,Physicians,TRUE,TRUE,7836,198952.8826,46868.13841,2173.254025,417,Language & Linguistics,16
+University of Pennsilvynia ,2020,2020,291240,Surgeons,TRUE,TRUE,403,310640.531,263389.5371,492.8635392,23,Language & Linguistics,16
+University of Pennsilvynia ,2020,2020,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,621,152622.1369,163620.8842,611.8143358,41,Language & Linguistics,16
+University of Pennsilvynia ,2019,2019,172011,Aerospace engineers,TRUE,TRUE,111,90556.34234,104829.0538,258.6640568,6,Language & Linguistics,16
+University of Pennsilvynia ,2019,2019,291020,Dentists,TRUE,TRUE,1112,198659.8822,107601.0332,818.7013657,64,Language & Linguistics,16
+University of Pennsilvynia ,2019,2019,291210,Physicians,TRUE,TRUE,7659,203703.0213,47043.46079,2148.570038,414,Language & Linguistics,16
+University of Pennsilvynia ,2019,2019,291240,Surgeons,TRUE,TRUE,344,262529,281369.0675,455.3585268,21,Language & Linguistics,16
+University of Pennsilvynia ,2019,2019,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,682,169258.6026,148719.6478,641.1592936,41,Language & Linguistics,16
+University of Pennsilvynia ,2018,2018,172011,Aerospace engineers,TRUE,TRUE,137,98789.93431,95353.50733,287.3656392,9,Language & Linguistics,16
+University of Pennsilvynia ,2018,2018,291020,Dentists,TRUE,TRUE,1081,169193.6494,99840.37024,807.208991,62,Language & Linguistics,16
+University of Pennsilvynia ,2018,2018,291210,Physicians,TRUE,TRUE,7585,198053.0647,45056.52812,2138.165012,408,Language & Linguistics,16
+University of Pennsilvynia ,2018,2018,291240,Surgeons,TRUE,TRUE,327,238497.581,256951.1498,443.9643995,21,Language & Linguistics,16
+University of Pennsilvynia ,2018,2018,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,897,176142.8205,126610.1669,735.3085909,50,Language & Linguistics,16
+University of Pennsilvynia ,2017,2017,172011,Aerospace engineers,TRUE,TRUE,136,120851.2647,92600.11145,286.3149377,9,Language & Linguistics,16
+University of Pennsilvynia ,2017,2017,291020,Dentists,TRUE,TRUE,969,180727.2167,103764.3157,764.2495273,60,Language & Linguistics,16
+University of Pennsilvynia ,2017,2017,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,1021,165816.3732,103388.9466,784.4875985,51,Language & Linguistics,16
+University of Pennsilvynia ,2016,2016,172011,Aerospace engineers,TRUE,TRUE,121,119462.0744,101293.3207,270.0643491,8,Language & Linguistics,16
+University of Pennsilvynia ,2016,2016,291020,Dentists,TRUE,TRUE,1005,166234.7194,107009.6843,778.316504,58,Language & Linguistics,16
+University of Pennsilvynia ,2016,2016,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,1070,155397.0533,101069.0401,803.0914409,52,Language & Linguistics,16
+University of Pennsilvynia ,2015,2015,172011,Aerospace engineers,TRUE,TRUE,94,114365.0319,124884.6732,238.0337498,7,Language & Linguistics,16
+University of Pennsilvynia ,2015,2015,291020,Dentists,TRUE,TRUE,1082,158686.8013,98692.8206,807.5821169,59,Language & Linguistics,16
+University of Pennsilvynia ,2015,2015,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,1055,167813.8815,107713.5792,797.4424216,53,Language & Linguistics,16
+University of Pennsilvynia ,2014,2014,172011,Aerospace engineers,TRUE,TRUE,72,130668.6944,129619.1784,208.3247609,6,Language & Linguistics,16
+University of Pennsilvynia ,2014,2014,291020,Dentists,TRUE,TRUE,965,137927.8964,99778.24362,762.670376,52,Language & Linguistics,16
+University of Pennsilvynia ,2014,2014,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,1090,160591.5174,114856.0996,810.562058,59,Language & Linguistics,16
+Princeton University,2020,2020,172011,Aerospace engineers,TRUE,TRUE,4979,126606.1826,25542.69631,1732.361517,249,Physical Sciences,40
+Princeton University,2020,2020,172061,Computer hardware engineers,TRUE,TRUE,1228,147718.3909,66242.24443,860.3440174,54,Physical Sciences,40
+Princeton University,2020,2020,291210,Physicians,TRUE,TRUE,69370,270185.9715,16425.57231,6464.857529,3802,Physical Sciences,40
+Princeton University,2020,2020,291240,Surgeons,TRUE,TRUE,4452,329569.3747,66718.31234,1638.120384,256,Physical Sciences,40
+Princeton University,2019,2019,172011,Aerospace engineers,TRUE,TRUE,4538,125893.9198,25486.80194,1653.866011,236,Physical Sciences,40
+Princeton University,2019,2019,172061,Computer hardware engineers,TRUE,TRUE,1292,150381.2933,68984.39252,882.4784585,62,Physical Sciences,40
+Princeton University,2019,2019,193033,Clinical and counseling psychologists,TRUE,TRUE,84,77585.97619,186031.0317,225.0164548,6,Physical Sciences,40
+Princeton University,2019,2019,291210,Physicians,TRUE,TRUE,70432,267217.3937,16073.31735,6514.124167,3953,Physical Sciences,40
+Princeton University,2019,2019,291240,Surgeons,TRUE,TRUE,4511,303169.6752,66604.06355,1648.938771,244,Physical Sciences,40
+Princeton University,2018,2018,172011,Aerospace engineers,TRUE,TRUE,4084,121543.644,19823.42061,1568.958743,218,Physical Sciences,40
+Princeton University,2018,2018,172061,Computer hardware engineers,TRUE,TRUE,1343,142757.3038,58639.66972,899.7270104,61,Physical Sciences,40
+Princeton University,2018,2018,193033,Clinical and counseling psychologists,TRUE,TRUE,101,80267.32673,154944.3116,246.7375765,7,Physical Sciences,40
+Princeton University,2018,2018,291210,Physicians,TRUE,TRUE,69303,258477.3763,15582.23768,6461.706248,3890,Physical Sciences,40
+Princeton University,2018,2018,291240,Surgeons,TRUE,TRUE,4133,291532.2328,63947.11416,1578.342629,225,Physical Sciences,40
+Princeton University,2017,2017,172011,Aerospace engineers,TRUE,TRUE,3726,121841.2131,20791.07379,1498.616595,216,Physical Sciences,40
+Princeton University,2017,2017,172061,Computer hardware engineers,TRUE,TRUE,1286,132737.4518,54087.64273,880.4268816,60,Physical Sciences,40
+Princeton University,2016,2016,172011,Aerospace engineers,TRUE,TRUE,3749,119296.4471,18417.19784,1503.234371,223,Physical Sciences,40
+Princeton University,2016,2016,172061,Computer hardware engineers,TRUE,TRUE,1273,126220.3614,47318.49259,875.9654909,58,Physical Sciences,40
+Princeton University,2015,2015,172011,Aerospace engineers,TRUE,TRUE,3999,120920.4276,20646.09447,1552.544988,244,Physical Sciences,40
+Princeton University,2015,2015,172061,Computer hardware engineers,TRUE,TRUE,1183,124215.8614,50491.59668,844.4331557,55,Physical Sciences,40
+Princeton University,2014,2014,172011,Aerospace engineers,TRUE,TRUE,4359,122049.5786,19874.52948,1620.918755,260,Physical Sciences,40
+Princeton University,2014,2014,172061,Computer hardware engineers,TRUE,TRUE,1181,116334.1558,38985.15065,843.7189929,54,Physical Sciences,40
+Princeton University,2020,2020,172011,Aerospace engineers,TRUE,TRUE,147,279638.2653,469324.7613,297.6687273,6,Philosophy and Religious Studies,38
+Princeton University,2020,2020,172061,Computer hardware engineers,TRUE,TRUE,227,116590.4141,184025.8418,369.9025751,8,Philosophy and Religious Studies,38
+Princeton University,2020,2020,193033,Clinical and counseling psychologists,TRUE,TRUE,197,63339.92893,49739.45036,344.5938983,11,Philosophy and Religious Studies,38
+Princeton University,2020,2020,291210,Physicians,TRUE,TRUE,6686,243515.6011,55229.21017,2007.465775,353,Philosophy and Religious Studies,38
+Princeton University,2020,2020,291240,Surgeons,TRUE,TRUE,421,215230.7482,207272.6427,503.7501516,19,Philosophy and Religious Studies,38
+Princeton University,2019,2019,172011,Aerospace engineers,TRUE,TRUE,174,234382.0575,403553.9795,323.8538964,8,Philosophy and Religious Studies,38
+Princeton University,2019,2019,172061,Computer hardware engineers,TRUE,TRUE,188,118507.1915,218906.3048,336.6304568,7,Philosophy and Religious Studies,38
+Princeton University,2019,2019,193033,Clinical and counseling psychologists,TRUE,TRUE,248,72553.39919,63408.95008,386.6341703,14,Philosophy and Religious Studies,38
+Princeton University,2019,2019,291210,Physicians,TRUE,TRUE,6897,235911.2924,54358.66316,2038.894318,362,Philosophy and Religious Studies,38
+Princeton University,2019,2019,291240,Surgeons,TRUE,TRUE,449,208397.657,183646.3313,520.2322461,19,Philosophy and Religious Studies,38
+Princeton University,2018,2018,172011,Aerospace engineers,TRUE,TRUE,132,292209.4848,463762.8621,282.0730062,6,Philosophy and Religious Studies,38
+Princeton University,2018,2018,172061,Computer hardware engineers,TRUE,TRUE,152,87798.40789,86567.57271,302.6887818,5,Philosophy and Religious Studies,38
+Princeton University,2018,2018,193033,Clinical and counseling psychologists,TRUE,TRUE,271,73881.65314,68680.44682,404.1652769,16,Philosophy and Religious Studies,38
+Princeton University,2018,2018,291210,Physicians,TRUE,TRUE,6694,227600.0871,53000.0698,2008.665459,351,Philosophy and Religious Studies,38
+Princeton University,2018,2018,291240,Surgeons,TRUE,TRUE,375,172881.7387,190372.5453,475.4335575,17,Philosophy and Religious Studies,38
+Princeton University,2017,2017,172011,Aerospace engineers,TRUE,TRUE,94,120486.9255,93773.39529,238.0337524,7,Philosophy and Religious Studies,38
+Princeton University,2017,2017,172061,Computer hardware engineers,TRUE,TRUE,161,86018.75155,79587.03941,311.5210892,5,Philosophy and Religious Studies,38
+Princeton University,2016,2016,172011,Aerospace engineers,TRUE,TRUE,147,119214.7075,72562.78023,297.6687196,10,Philosophy and Religious Studies,38
+Princeton University,2015,2015,172011,Aerospace engineers,TRUE,TRUE,163,106056,53182.75709,313.4500225,11,Philosophy and Religious Studies,38
+Princeton University,2014,2014,172011,Aerospace engineers,TRUE,TRUE,198,105413.6414,44203.56711,345.4673736,10,Philosophy and Religious Studies,38
+Princeton University,2020,2020,172011,Aerospace engineers,TRUE,TRUE,265,93216.55472,62215.85894,399.6660952,13,History,54
+Princeton University,2020,2020,172061,Computer hardware engineers,TRUE,TRUE,252,277496.2976,322044.3189,389.739712,11,History,54
+Princeton University,2020,2020,193033,Clinical and counseling psychologists,TRUE,TRUE,150,239350.3133,402032.0785,300.6908193,9,History,54
+Princeton University,2020,2020,291210,Physicians,TRUE,TRUE,11688,246311.9709,40553.05754,2654.163895,604,History,54
+Princeton University,2020,2020,291240,Surgeons,TRUE,TRUE,487,288105.1951,218478.0691,541.7994076,30,History,54
+Princeton University,2019,2019,172011,Aerospace engineers,TRUE,TRUE,226,106741.1504,52696.47926,369.0869122,12,History,54
+Princeton University,2019,2019,172061,Computer hardware engineers,TRUE,TRUE,295,93358.36949,33115.58493,421.6822614,13,History,54
+Princeton University,2019,2019,193033,Clinical and counseling psychologists,TRUE,TRUE,104,71228.63462,83299.29341,250.3751804,9,History,54
+Princeton University,2019,2019,291210,Physicians,TRUE,TRUE,11153,237023.5995,41279.82765,2592.711453,614,History,54
+Princeton University,2019,2019,291240,Surgeons,TRUE,TRUE,471,291548.879,231005.2895,532.824908,32,History,54
+Princeton University,2018,2018,172011,Aerospace engineers,TRUE,TRUE,215,95103.82326,49630.34074,359.9926778,12,History,54
+Princeton University,2018,2018,172061,Computer hardware engineers,TRUE,TRUE,289,91129.46713,38230.29729,417.3719402,11,History,54
+Princeton University,2018,2018,193033,Clinical and counseling psychologists,TRUE,TRUE,104,70352.48077,82202.62901,250.3751791,9,History,54
+Princeton University,2018,2018,291210,Physicians,TRUE,TRUE,10687,232423.4034,40429.91667,2537.971238,589,History,54
+Princeton University,2018,2018,291240,Surgeons,TRUE,TRUE,447,252847.9172,217217.5312,519.0722985,30,History,54
+Princeton University,2017,2017,172011,Aerospace engineers,TRUE,TRUE,303,109632.9307,112771.8419,427.3617152,15,History,54
+Princeton University,2017,2017,172061,Computer hardware engineers,TRUE,TRUE,214,90218.00467,41542.68087,359.1545072,8,History,54
+Princeton University,2016,2016,172011,Aerospace engineers,TRUE,TRUE,328,109269.6098,100687.1875,444.6427083,16,History,54
+Princeton University,2016,2016,172061,Computer hardware engineers,TRUE,TRUE,229,85380.87773,44124.60577,371.5285107,9,History,54
+Princeton University,2015,2015,172011,Aerospace engineers,TRUE,TRUE,291,111444.5498,111675.4353,418.8136204,15,History,54
+Princeton University,2015,2015,172061,Computer hardware engineers,TRUE,TRUE,220,83666.20455,48632.96049,364.1545614,11,History,54
+Princeton University,2014,2014,172011,Aerospace engineers,TRUE,TRUE,314,123002.6242,108469.5848,435.0499092,16,History,54
+Princeton University,2014,2014,172061,Computer hardware engineers,TRUE,TRUE,121,144305.4132,158166.2513,270.0643452,7,History,54
+Princeton University,2020,2020,172011,Aerospace engineers,TRUE,TRUE,121,98374.61983,67066.25197,270.0643549,6,Architecture and Related Services,4
+Princeton University,2020,2020,172061,Computer hardware engineers,TRUE,TRUE,135,101935.0296,131770.8029,285.2603726,9,Architecture and Related Services,4
+Princeton University,2020,2020,291210,Physicians,TRUE,TRUE,780,188883.3154,129634.5238,685.6791083,40,Architecture and Related Services,4
+Princeton University,2020,2020,291240,Surgeons,TRUE,TRUE,107,299919.4206,476193.1889,253.9606855,5,Architecture and Related Services,4
+Princeton University,2019,2019,172011,Aerospace engineers,TRUE,TRUE,169,123114.2722,119762.9381,319.1669123,8,Architecture and Related Services,4
+Princeton University,2019,2019,172061,Computer hardware engineers,TRUE,TRUE,152,97894.19079,120616.6035,302.6887841,10,Architecture and Related Services,4
+Princeton University,2019,2019,291210,Physicians,TRUE,TRUE,893,212150.9194,130678.7101,733.6673176,40,Architecture and Related Services,4
+Princeton University,2018,2018,172011,Aerospace engineers,TRUE,TRUE,233,113136.7167,87127.25212,374.7592586,9,Architecture and Related Services,4
+Princeton University,2018,2018,172061,Computer hardware engineers,TRUE,TRUE,126,86525.23016,150822.4478,275.587708,9,Architecture and Related Services,4
+Princeton University,2018,2018,291210,Physicians,TRUE,TRUE,853,205709.2087,138227.7579,717.0476219,35,Architecture and Related Services,4
+Princeton University,2017,2017,172011,Aerospace engineers,TRUE,TRUE,236,102042.1907,83378.66011,377.1641472,8,Architecture and Related Services,4
+Princeton University,2017,2017,172061,Computer hardware engineers,TRUE,TRUE,102,88608.80392,174622.2695,247.9560389,7,Architecture and Related Services,4
+Princeton University,2016,2016,172011,Aerospace engineers,TRUE,TRUE,268,90416.38806,83635.348,401.9219663,9,Architecture and Related Services,4
+Princeton University,2015,2015,172011,Aerospace engineers,TRUE,TRUE,250,92094.46,88975.54187,388.1900247,9,Architecture and Related Services,4
+Princeton University,2014,2014,172011,Aerospace engineers,TRUE,TRUE,254,81751.38976,53023.86937,391.2832096,9,Architecture and Related Services,4
+Princeton University,2020,2020,172011,Aerospace engineers,TRUE,TRUE,85,98626.22353,134422.6156,226.3518753,5,Language & Linguistics,16
+Princeton University,2020,2020,193033,Clinical and counseling psychologists,TRUE,TRUE,161,71485.53416,99740.53181,311.5210951,7,Language & Linguistics,16
+Princeton University,2020,2020,291210,Physicians,TRUE,TRUE,7836,198952.8826,46868.13841,2173.254025,417,Language & Linguistics,16
+Princeton University,2020,2020,291240,Surgeons,TRUE,TRUE,403,310640.531,263389.5371,492.8635392,23,Language & Linguistics,16
+Princeton University,2019,2019,172011,Aerospace engineers,TRUE,TRUE,111,90556.34234,104829.0538,258.6640568,6,Language & Linguistics,16
+Princeton University,2019,2019,172061,Computer hardware engineers,TRUE,TRUE,103,115061.4951,138182.6616,249.1685468,5,Language & Linguistics,16
+Princeton University,2019,2019,193033,Clinical and counseling psychologists,TRUE,TRUE,170,88093.41176,110820.2652,320.1097992,13,Language & Linguistics,16
+Princeton University,2019,2019,291210,Physicians,TRUE,TRUE,7659,203703.0213,47043.46079,2148.570038,414,Language & Linguistics,16
+Princeton University,2019,2019,291240,Surgeons,TRUE,TRUE,344,262529,281369.0675,455.3585268,21,Language & Linguistics,16
+Princeton University,2018,2018,172011,Aerospace engineers,TRUE,TRUE,137,98789.93431,95353.50733,287.3656392,9,Language & Linguistics,16
+Princeton University,2018,2018,193033,Clinical and counseling psychologists,TRUE,TRUE,222,70925.8964,74852.2039,365.8060755,16,Language & Linguistics,16
+Princeton University,2018,2018,291210,Physicians,TRUE,TRUE,7585,198053.0647,45056.52812,2138.165012,408,Language & Linguistics,16
+Princeton University,2018,2018,291240,Surgeons,TRUE,TRUE,327,238497.581,256951.1498,443.9643995,21,Language & Linguistics,16
+Princeton University,2017,2017,172011,Aerospace engineers,TRUE,TRUE,136,120851.2647,92600.11145,286.3149377,9,Language & Linguistics,16
+Princeton University,2016,2016,172011,Aerospace engineers,TRUE,TRUE,121,119462.0744,101293.3207,270.0643491,8,Language & Linguistics,16
+Princeton University,2016,2016,172061,Computer hardware engineers,TRUE,TRUE,147,83247.46259,59816.91441,297.6687196,7,Language & Linguistics,16
+Princeton University,2015,2015,172011,Aerospace engineers,TRUE,TRUE,94,114365.0319,124884.6732,238.0337498,7,Language & Linguistics,16
+Princeton University,2015,2015,172061,Computer hardware engineers,TRUE,TRUE,124,76097.96774,63811.05335,273.3917512,6,Language & Linguistics,16
+Princeton University,2014,2014,172011,Aerospace engineers,TRUE,TRUE,72,130668.6944,129619.1784,208.3247609,6,Language & Linguistics,16
+Princeton University,2014,2014,172061,Computer hardware engineers,TRUE,TRUE,134,71686.13433,65023.98211,284.2018786,6,Language & Linguistics,16
+Yale University,2020,2020,291240,Surgeons,TRUE,TRUE,139,211234.9137,316488.7268,289.4555993,9,Cultural & Gender Studies,5
+Yale University,2020,2020,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,187,301388.7219,466889.0434,335.7339716,16,Cultural & Gender Studies,5
+Yale University,2019,2019,193033,Clinical and counseling psychologists,TRUE,TRUE,133,54765.60902,77796.69961,283.1394495,6,Cultural & Gender Studies,5
+Yale University,2019,2019,291240,Surgeons,TRUE,TRUE,105,179788.8857,269663.5937,251.5760266,7,Cultural & Gender Studies,5
+Yale University,2019,2019,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,308,254139.2403,323732.1701,430.8733798,20,Cultural & Gender Studies,5
+Yale University,2018,2018,193033,Clinical and counseling psychologists,TRUE,TRUE,137,53764.62774,75181.58195,287.3656392,6,Cultural & Gender Studies,5
+Yale University,2018,2018,291240,Surgeons,TRUE,TRUE,101,157719.7822,300286.0474,246.7375765,6,Cultural & Gender Studies,5
+Yale University,2018,2018,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,323,173029.4985,258385.5661,441.2406719,19,Cultural & Gender Studies,5
+Yale University,2017,2017,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,312,177325.1186,259624.1668,433.6622141,18,Cultural & Gender Studies,5
+Yale University,2016,2016,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,274,158728.4453,250475.6728,406.3961804,15,Cultural & Gender Studies,5
+Yale University,2015,2015,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,466,142105.6373,155870.3409,529.9891597,19,Cultural & Gender Studies,5
+Yale University,2014,2014,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,449,148435.7884,172344.2935,520.232181,19,Cultural & Gender Studies,5
+Yale University,2020,2020,172011,Aerospace engineers,TRUE,TRUE,185,137170.4432,195785.8836,333.9337787,14,Natural Resources & Conservation,3
+Yale University,2020,2020,172061,Computer hardware engineers,TRUE,TRUE,138,98123.07971,59454.77087,288.4125137,6,Natural Resources & Conservation,3
+Yale University,2020,2020,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,569,111044.109,101517.3442,585.6390916,31,Natural Resources & Conservation,3
+Yale University,2019,2019,172011,Aerospace engineers,TRUE,TRUE,226,143228.2699,154050.6014,369.0869122,12,Natural Resources & Conservation,3
+Yale University,2019,2019,172061,Computer hardware engineers,TRUE,TRUE,101,79495.20792,37245.92352,246.7375777,6,Natural Resources & Conservation,3
+Yale University,2019,2019,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,493,119779.6815,134019.7656,545.1267481,26,Natural Resources & Conservation,3
+Yale University,2018,2018,172011,Aerospace engineers,TRUE,TRUE,251,108707.5378,45773.6555,388.965645,14,Natural Resources & Conservation,3
+Yale University,2018,2018,172061,Computer hardware engineers,TRUE,TRUE,105,119494.1143,187453.346,251.5760253,6,Natural Resources & Conservation,3
+Yale University,2018,2018,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,436,113720.6743,149980.7655,512.6457389,24,Natural Resources & Conservation,3
+Yale University,2017,2017,172011,Aerospace engineers,TRUE,TRUE,200,106805.59,54462.31983,347.2077843,11,Natural Resources & Conservation,3
+Yale University,2017,2017,172061,Computer hardware engineers,TRUE,TRUE,112,116542.1786,164196.2617,259.826594,7,Natural Resources & Conservation,3
+Yale University,2017,2017,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,420,139846.9738,196542.9774,503.1514949,24,Natural Resources & Conservation,3
+Yale University,2016,2016,172011,Aerospace engineers,TRUE,TRUE,213,114927.8122,58388.04338,358.3143751,11,Natural Resources & Conservation,3
+Yale University,2016,2016,172061,Computer hardware engineers,TRUE,TRUE,111,114392.4685,161754.7922,258.6640522,7,Natural Resources & Conservation,3
+Yale University,2016,2016,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,391,158759.4348,213301.9965,485.470153,26,Natural Resources & Conservation,3
+Yale University,2015,2015,172011,Aerospace engineers,TRUE,TRUE,225,112640.0711,60239.58132,368.2694262,12,Natural Resources & Conservation,3
+Yale University,2015,2015,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,414,206907.5918,231624.3773,499.5446135,28,Natural Resources & Conservation,3
+Yale University,2014,2014,172011,Aerospace engineers,TRUE,TRUE,156,107129.6026,84130.68051,306.6456507,10,Natural Resources & Conservation,3
+Yale University,2014,2014,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,469,189505.5352,199623.6946,531.6923756,31,Natural Resources & Conservation,3
+Yale University,2020,2020,172011,Aerospace engineers,TRUE,TRUE,121,98374.61983,67066.25197,270.0643549,6,Architecture and Related Services,4
+Yale University,2020,2020,172061,Computer hardware engineers,TRUE,TRUE,135,101935.0296,131770.8029,285.2603726,9,Architecture and Related Services,4
+Yale University,2020,2020,291240,Surgeons,TRUE,TRUE,107,299919.4206,476193.1889,253.9606855,5,Architecture and Related Services,4
+Yale University,2020,2020,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,454,260657.9956,247003.58,523.1208379,25,Architecture and Related Services,4
+Yale University,2019,2019,172011,Aerospace engineers,TRUE,TRUE,169,123114.2722,119762.9381,319.1669123,8,Architecture and Related Services,4
+Yale University,2019,2019,172061,Computer hardware engineers,TRUE,TRUE,152,97894.19079,120616.6035,302.6887841,10,Architecture and Related Services,4
+Yale University,2019,2019,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,444,249718.1644,255205.4914,517.3275295,22,Architecture and Related Services,4
+Yale University,2018,2018,172011,Aerospace engineers,TRUE,TRUE,233,113136.7167,87127.25212,374.7592586,9,Architecture and Related Services,4
+Yale University,2018,2018,172061,Computer hardware engineers,TRUE,TRUE,126,86525.23016,150822.4478,275.587708,9,Architecture and Related Services,4
+Yale University,2018,2018,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,451,193117.1264,223798.8445,521.3895899,23,Architecture and Related Services,4
+Yale University,2017,2017,172011,Aerospace engineers,TRUE,TRUE,236,102042.1907,83378.66011,377.1641472,8,Architecture and Related Services,4
+Yale University,2017,2017,172061,Computer hardware engineers,TRUE,TRUE,102,88608.80392,174622.2695,247.9560389,7,Architecture and Related Services,4
+Yale University,2017,2017,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,453,151896.0199,175934.6927,522.5443703,24,Architecture and Related Services,4
+Yale University,2016,2016,172011,Aerospace engineers,TRUE,TRUE,268,90416.38806,83635.348,401.9219663,9,Architecture and Related Services,4
+Yale University,2016,2016,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,465,165521.9527,182843.4393,529.4202124,25,Architecture and Related Services,4
+Yale University,2015,2015,172011,Aerospace engineers,TRUE,TRUE,250,92094.46,88975.54187,388.1900247,9,Architecture and Related Services,4
+Yale University,2015,2015,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,503,149585.3618,155875.9561,550.6275828,25,Architecture and Related Services,4
+Yale University,2014,2014,172011,Aerospace engineers,TRUE,TRUE,254,81751.38976,53023.86937,391.2832096,9,Architecture and Related Services,4
+Yale University,2014,2014,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,524,154784.8798,146247.2224,562.0042078,25,Architecture and Related Services,4
+Yale University,2020,2020,172011,Aerospace engineers,TRUE,TRUE,265,93216.55472,62215.85894,399.6660952,13,History,54
+Yale University,2020,2020,172061,Computer hardware engineers,TRUE,TRUE,252,277496.2976,322044.3189,389.739712,11,History,54
+Yale University,2020,2020,193033,Clinical and counseling psychologists,TRUE,TRUE,150,239350.3133,402032.0785,300.6908193,9,History,54
+Yale University,2020,2020,291240,Surgeons,TRUE,TRUE,487,288105.1951,218478.0691,541.7994076,30,History,54
+Yale University,2020,2020,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,4172,242577.884,81369.22197,1585.772188,195,History,54
+Yale University,2019,2019,172011,Aerospace engineers,TRUE,TRUE,226,106741.1504,52696.47926,369.0869122,12,History,54
+Yale University,2019,2019,172061,Computer hardware engineers,TRUE,TRUE,295,93358.36949,33115.58493,421.6822614,13,History,54
+Yale University,2019,2019,193033,Clinical and counseling psychologists,TRUE,TRUE,104,71228.63462,83299.29341,250.3751804,9,History,54
+Yale University,2019,2019,291240,Surgeons,TRUE,TRUE,471,291548.879,231005.2895,532.824908,32,History,54
+Yale University,2019,2019,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,4278,224265.6847,76907.72234,1605.790371,209,History,54
+Yale University,2018,2018,172011,Aerospace engineers,TRUE,TRUE,215,95103.82326,49630.34074,359.9926778,12,History,54
+Yale University,2018,2018,172061,Computer hardware engineers,TRUE,TRUE,289,91129.46713,38230.29729,417.3719402,11,History,54
+Yale University,2018,2018,193033,Clinical and counseling psychologists,TRUE,TRUE,104,70352.48077,82202.62901,250.3751791,9,History,54
+Yale University,2018,2018,291240,Surgeons,TRUE,TRUE,447,252847.9172,217217.5312,519.0722985,30,History,54
+Yale University,2018,2018,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,4267,215776.4846,74397.62909,1603.724282,215,History,54
+Yale University,2017,2017,172011,Aerospace engineers,TRUE,TRUE,303,109632.9307,112771.8419,427.3617152,15,History,54
+Yale University,2017,2017,172061,Computer hardware engineers,TRUE,TRUE,214,90218.00467,41542.68087,359.1545072,8,History,54
+Yale University,2017,2017,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,4670,201339.9745,67253.41337,1677.745652,232,History,54
+Yale University,2016,2016,172011,Aerospace engineers,TRUE,TRUE,328,109269.6098,100687.1875,444.6427083,16,History,54
+Yale University,2016,2016,172061,Computer hardware engineers,TRUE,TRUE,229,85380.87773,44124.60577,371.5285107,9,History,54
+Yale University,2016,2016,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,4850,185726.0363,60892.76999,1709.771794,236,History,54
+Yale University,2015,2015,172011,Aerospace engineers,TRUE,TRUE,291,111444.5498,111675.4353,418.8136204,15,History,54
+Yale University,2015,2015,172061,Computer hardware engineers,TRUE,TRUE,220,83666.20455,48632.96049,364.1545614,11,History,54
+Yale University,2015,2015,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,4780,174379.9416,57384.14731,1697.388345,235,History,54
+Yale University,2014,2014,172011,Aerospace engineers,TRUE,TRUE,314,123002.6242,108469.5848,435.0499092,16,History,54
+Yale University,2014,2014,172061,Computer hardware engineers,TRUE,TRUE,121,144305.4132,158166.2513,270.0643452,7,History,54
+Yale University,2014,2014,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,5048,161204.0172,53461.27938,1744.320914,243,History,54
+Yale University,2020,2020,172011,Aerospace engineers,TRUE,TRUE,147,279638.2653,469324.7613,297.6687273,6,Philosophy and Religious Studies,38
+Yale University,2020,2020,172061,Computer hardware engineers,TRUE,TRUE,227,116590.4141,184025.8418,369.9025751,8,Philosophy and Religious Studies,38
+Yale University,2020,2020,193033,Clinical and counseling psychologists,TRUE,TRUE,197,63339.92893,49739.45036,344.5938983,11,Philosophy and Religious Studies,38
+Yale University,2020,2020,291240,Surgeons,TRUE,TRUE,421,215230.7482,207272.6427,503.7501516,19,Philosophy and Religious Studies,38
+Yale University,2020,2020,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,887,199670.7317,167304.703,731.1984618,45,Philosophy and Religious Studies,38
+Yale University,2019,2019,172011,Aerospace engineers,TRUE,TRUE,174,234382.0575,403553.9795,323.8538964,8,Philosophy and Religious Studies,38
+Yale University,2019,2019,172061,Computer hardware engineers,TRUE,TRUE,188,118507.1915,218906.3048,336.6304568,7,Philosophy and Religious Studies,38
+Yale University,2019,2019,193033,Clinical and counseling psychologists,TRUE,TRUE,248,72553.39919,63408.95008,386.6341703,14,Philosophy and Religious Studies,38
+Yale University,2019,2019,291240,Surgeons,TRUE,TRUE,449,208397.657,183646.3313,520.2322461,19,Philosophy and Religious Studies,38
+Yale University,2019,2019,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,953,210855.2088,178759.9617,757.9137842,45,Philosophy and Religious Studies,38
+Yale University,2018,2018,172011,Aerospace engineers,TRUE,TRUE,132,292209.4848,463762.8621,282.0730062,6,Philosophy and Religious Studies,38
+Yale University,2018,2018,172061,Computer hardware engineers,TRUE,TRUE,152,87798.40789,86567.57271,302.6887818,5,Philosophy and Religious Studies,38
+Yale University,2018,2018,193033,Clinical and counseling psychologists,TRUE,TRUE,271,73881.65314,68680.44682,404.1652769,16,Philosophy and Religious Studies,38
+Yale University,2018,2018,291240,Surgeons,TRUE,TRUE,375,172881.7387,190372.5453,475.4335575,17,Philosophy and Religious Studies,38
+Yale University,2018,2018,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,1058,178906.2278,154111.9137,798.5755547,47,Philosophy and Religious Studies,38
+Yale University,2017,2017,172011,Aerospace engineers,TRUE,TRUE,94,120486.9255,93773.39529,238.0337524,7,Philosophy and Religious Studies,38
+Yale University,2017,2017,172061,Computer hardware engineers,TRUE,TRUE,161,86018.75155,79587.03941,311.5210892,5,Philosophy and Religious Studies,38
+Yale University,2017,2017,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,1097,178830.0693,151501.4201,813.1607543,47,Philosophy and Religious Studies,38
+Yale University,2016,2016,172011,Aerospace engineers,TRUE,TRUE,147,119214.7075,72562.78023,297.6687196,10,Philosophy and Religious Studies,38
+Yale University,2016,2016,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,833,214148.9328,194477.828,708.5915593,36,Philosophy and Religious Studies,38
+Yale University,2015,2015,172011,Aerospace engineers,TRUE,TRUE,163,106056,53182.75709,313.4500225,11,Philosophy and Religious Studies,38
+Yale University,2015,2015,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,844,253958.1339,197646.5428,713.2547282,38,Philosophy and Religious Studies,38
+Yale University,2014,2014,172011,Aerospace engineers,TRUE,TRUE,198,105413.6414,44203.56711,345.4673736,10,Philosophy and Religious Studies,38
+Yale University,2014,2014,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,799,202325.0864,178115.7985,693.979873,39,Philosophy and Religious Studies,38
